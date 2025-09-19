@@ -6,7 +6,7 @@ const QRGenerator = () => {
   const [qrCodes, setQrCodes] = useState({});
   const [loading, setLoading] = useState(true);
   
-  const baseUrl = 'qr-code-iota-woad.vercel.app'; // Ganti dengan domain Anda
+  const baseUrl = 'qr-baru.vercel.app'; // Ganti dengan domain Anda
 
   useEffect(() => {
     const generateQRCodes = async () => { 

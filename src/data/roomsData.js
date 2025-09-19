@@ -74,8 +74,7 @@ export const roomsData = {
       { number: 18, name: "Jendela", color: "#fffff"},
       { number: 19, name: "Salib", color: "#414258", textColor: "#fffff"},
       { number: 20, name: "Loker", color: "#ffff7f"},
-      { number: 21, name: "Blackboard", color: "#fffff"},
-      { number: 22, name: "Jam Dinding", color: "#2c9df5", textColor: "#fffff"}
+      { number: 21, name: "Blackboard", color: "#fffff"}
     ]
   },
 
