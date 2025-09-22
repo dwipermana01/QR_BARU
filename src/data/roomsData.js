@@ -130,7 +130,7 @@ export const roomsData = {
     capacity: "12 Orang",
     nameClass: "Ruangan Meeting",
     building: "SMP",
-    floor: "2",
+    floor: "1",
     roomNumber: "R03-01-02",
     images: [
       {
@@ -152,8 +152,7 @@ export const roomsData = {
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja Victor", count: "1 set unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Chitose", count: "8 unit" },
-      {icon: "/icons/chair-chitose.svg", name: "Kursi Chitose Lipat", count: "4 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Chitose", count: "12 unit" },
       { icon: "/icons/speaker.svg", name: "Speaker", count: "1 unit" },
       { icon: "/icons/mic.svg", name: "Microphone", count: "1 unit" },
       { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "1 unit" }, 
