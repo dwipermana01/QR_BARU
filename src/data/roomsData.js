@@ -1,10 +1,12 @@
 export const roomsData = {
+
+  // GEDUNG SMP LANTAI 1-4 //
   "030101": {
-    name: "Kelas VIII B",
-    location: "Lantai 3 - Gedung SMP",
-    capacity: "30 siswa",
-    size: "8m x 6m",
-    nameClass: "Kelas VIII B",
+    name: "Ruangan Tata Usaha",
+    location: "Lantai 1 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruangan Tata Usaha",
     building: "SMP",
     floor: "3",
     roomNumber: "R03-01-01",
@@ -81,13 +83,13 @@ export const roomsData = {
 
   
   "030102": {
-    name: "",
+    name: "Ruangan Kepala Sekolah",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
     size: "",
-    nameClass: "",
+    nameClass: "Ruangan Kepala Sekolah",
     building: "SMP",
-    floor: "1",
+    floor: "2",
     roomNumber: "R03-01-02",
     images: [
       {
@@ -131,7 +133,7 @@ export const roomsData = {
     size: "",
     nameClass: "Ruangan Meeting",
     building: "SMP",
-    floor: "1",
+    floor: "2",
     roomNumber: "R03-01-02",
     images: [
       {
@@ -139,7 +141,7 @@ export const roomsData = {
         alt: "Tampak Depan TV",
       },
       {
-        src: "/images/rooms/ruangmeeting/meeting2.jpeg",
+        src: "/images/rooms/ruangmeeting/meeting2.jpeg", 
         alt: "Tampak Depan",
       },
       {
@@ -180,12 +182,200 @@ export const roomsData = {
     ]
   },
 
-  "030201": {
-    name: "",
-    location: "",
+  "030104": {
+    name: "Ruangan Wakil Kepala Sekolah",
+    location: "Lantai 1 - Gedung SMP",
     capacity: "",
     size: "",
-    nameClass: "",
+    nameClass: "Ruangan Wakil Kepala Sekolah",
+    building: "SMP",
+    floor: "1",
+    roomNumber: "R03-01-02",
+    images: [
+      {
+        src: "/images/rooms/ruangmeeting/meeting1.jpeg",
+        alt: "Tampak Depan TV",
+      },
+      {
+        src: "/images/rooms/ruangmeeting/meeting2.jpeg", 
+        alt: "Tampak Depan",
+      },
+      {
+        src: "/images/rooms/ruangmeeting/meeting4.jpeg",
+        alt: "Tampak Dalam 1",
+      },
+      {
+        src: "/images/rooms/ruangmeeting/meeting5.jpeg",
+        alt: "Tampak Dalam 2",
+      },
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit"},
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit"},
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit"},
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit"},
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit"},
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit"},
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit"},
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit"},
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit"},
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set"},
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit"},
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: 1, name: "Pintu Kelas", color: "#fffff"}
+    ]
+  },
+
+  "030105": {
+    name: "Ruang Kebersihan",
+    location: "Lantai 1 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruang Kebersihan",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-01-05",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+  "030106": {
+    name: "Ruang Kelas VII A",
+    location: "Lantai 1 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruang Kelas VII A",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-01-06",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+  "030107": {
+    name: "Ruang Kelas VII B",
+    location: "Lantai 1 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruang Kelas VII B",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-01-07",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+  "030201": {
+    name: "Kelas IX C",
+    location: "Lantai 2 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Kelas IX C",
     building: "SMP",
     floor: "1",
     roomNumber: "R03-02-01",
@@ -269,11 +459,11 @@ export const roomsData = {
   },
 
   "030203": {
-    name: "",
+    name: "Ruang Kebersihan",
     location: "Lantai 2 - Gedung SMP",
     capacity: "",
     size: "",
-    nameClass: "",
+    nameClass: "Ruang Kebersihan",
     building: "SMP",
     floor: "1",
     roomNumber: "R03-02-03",
@@ -488,12 +678,276 @@ export const roomsData = {
     ]
   },
 
+   "030303": {
+    name: "Ruang Kebersihan",
+    location: "Lantai 3 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruang Kebersihan",
+    building: "SMP",
+    floor: "1",
+    roomNumber: "R03-03-03",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+   "030304": {
+    name: "Ruang BK",
+    location: "Lantai 3 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruang BK",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-03-04",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+   "030305": {
+    name: "UKS Putri",
+    location: "Lantai 3 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "UKS Putri",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-03-05",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+   "030306": {
+    name: "Pentry",
+    location: "Lantai 3 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Pentry",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-03-06",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
+   "030307": {
+    name: "Ruang Guru",
+    location: "Lantai 3 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "Ruang Guru",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-03-07",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+  
+  "030308": {
+    name: "UKS Putra",
+    location: "Lantai 3 - Gedung SMP",
+    capacity: "",
+    size: "",
+    nameClass: "UKS Putra",
+    building: "SMP",
+    floor: "3",
+    roomNumber: "R03-03-08",
+    images: [
+      {
+        src: "",
+        alt: ""
+      }
+    ],
+    assets: [
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+    ],
+    mapImage: "",
+    legendItems: [
+      { number: "", name: "", color: "" }
+    ]
+  },
+
   "030401": {
-    name: "Maker Space",
+    name: "Ruang Maker Space",
     location: "Lantai 4 - Gedung SMP",
     capacity: "",
     size: "",
-    nameClass: "Maker Space",
+    nameClass: "Ruang Maker Space",
     building: "SMP",
     floor: "4",
     roomNumber: "R03-04-01",
@@ -649,11 +1103,11 @@ export const roomsData = {
   },
 
   "030404": {
-    name: "Art Room",
+    name: "Ruang Art",
     location: "Lantai 4 - Gedung SMP",
     capacity: "",
     size: "",
-    nameClass: "Art Room",
+    nameClass: "Ruang Art",
     building: "SMP",
     floor: "4",
     roomNumber: "R03-04-04",
