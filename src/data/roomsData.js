@@ -151,8 +151,8 @@ export const roomsData = {
       },
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Victor", count: "1 set unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Chitose", count: "12 unit" },
+      { icon: "/icons/table.svg", name: "Meja Meeting", count: "1 set unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Meeting", count: "12 unit" },
       { icon: "/icons/speaker.svg", name: "Speaker", count: "1 unit" },
       { icon: "/icons/mic.svg", name: "Microphone", count: "1 unit" },
       { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "1 unit" }, 
