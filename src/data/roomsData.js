@@ -645,7 +645,7 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "6 unit" },
+      { icon: "/icons/table.svg", name: "Meja", count: "6 unit" },
       { icon: "/icons/chair-chitose.svg", name: "Kursi", count: "7 unit" },
       { icon: "/icons/teacherChair.svg", name: "Kursi Office", count: "2 unit" },
       { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
