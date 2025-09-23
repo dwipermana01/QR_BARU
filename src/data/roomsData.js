@@ -48,22 +48,14 @@ export const roomsData = {
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
       { number: 4, name: "Papan Data Informasi", color: "#d7d7d7"},
       { number: 5, name: "Lemari", color: "#ff8c8e"},
-      { number: 6, name: "Bendera", color: "#8a2d3b", textColor: "#fffff"},
       { number: 7, name: "Tempat Sampah", color: "#379e90", textColor: "#fffff"},
       { number: 8, name: "Papan Tulis", color: "#641b2e", textColor: "#fffff"},
-      { number: 9, name: "Layar Proyektor", color: "#fed2e2"},
-      { number: 10, name: "Ornamen Negara", color: "#be5b50", textColor: "#fffff"},
       { number: 11, name: "Kursi Guru", color: "#ffc000"},
       { number: 12, name: "Meja Guru", color: "#fbdb93"},
-      { number: 13, name: "Proyektor", color: "#ff7979"},
-      { number: 14, name: "IP Camera", color: "#fdff85"},
-      { number: 15, name: "Router", color: "#f4f4f4"},
       { number: 16, name: "Kursi & Meja Siswa", color: "#89a3fe"},
       { number: 17, name: "AC", color: "#e9ecff"},
       { number: 18, name: "Jendela", color: "#fffff"},
-      { number: 19, name: "Salib", color: "#414258", textColor: "#fffff"},
       { number: 20, name: "Loker", color: "#ffff7f"},
-      { number: 21, name: "Blackboard", color: "#fffff"},
       { number: 22, name: "Jam Dinding", color: "#2c9df5", textColor: "#fffff"}
     ]
   },
@@ -75,7 +67,7 @@ export const roomsData = {
     capacity: "",
     nameClass: "Ruangan Kepala Sekolah",
     building: "SMP",
-    floor: "2",
+    floor: "1",
     roomNumber: "R03-01-02",
     images: [
       {
@@ -84,27 +76,21 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/table.svg", name: "Meja", count: "4 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi", count: "6 unit" },
       { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit"},
       { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit"},
-      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
       { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
-      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
-      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
-      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
       { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
-      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit"},
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit"},
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit"},
-      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit"},
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit"},
       { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit"},
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit"},
-      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set"},
+      { icon: "/icons/flag.svg", name: "Bendera", count: "2 Set"},
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit"},
-      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
-      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "3 Unit"},
+      { icon: "/icons/patung.svg", name: "Patung", count: "2 Unit"},
     ],
     mapImage: "/maps/r030202.jpg",
     legendItems: [
@@ -223,7 +209,7 @@ export const roomsData = {
     capacity: "",
     nameClass: "Ruang Kebersihan",
     building: "SMP",
-    floor: "3",
+    floor: "1",
     roomNumber: "R03-01-05",
     images: [
       {
@@ -266,7 +252,7 @@ export const roomsData = {
     capacity: "",
     nameClass: "Ruang Kelas VII A",
     building: "SMP",
-    floor: "3",
+    floor: "1",
     roomNumber: "R03-01-06",
     images: [
       {
@@ -275,11 +261,11 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "26 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "26 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
       { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
-      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
       { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
       { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
       { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
@@ -289,8 +275,8 @@ export const roomsData = {
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
       { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
-      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "6 Unit" },
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
       { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
@@ -309,7 +295,7 @@ export const roomsData = {
     capacity: "",
     nameClass: "Ruang Kelas VII B",
     building: "SMP",
-    floor: "3",
+    floor: "1",
     roomNumber: "R03-01-07",
     images: [
       {
@@ -318,8 +304,8 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "26 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "24 unit" },
       { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
       { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
@@ -327,18 +313,14 @@ export const roomsData = {
       { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
       { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
       { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
-      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
-      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
-      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
       { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
       { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
-      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
-      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" }
     ],
     mapImage: "",
     legendItems: [
@@ -352,7 +334,7 @@ export const roomsData = {
     capacity: "",
     nameClass: "Kelas IX C",
     building: "SMP",
-    floor: "1",
+    floor: "2",
     roomNumber: "R03-02-01",
     images: [
       {
@@ -361,8 +343,8 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "25 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "24 unit" },
       { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit"},
       { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit"},
       { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
@@ -370,12 +352,9 @@ export const roomsData = {
       { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
       { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
       { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
-      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
-      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit"},
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit"},
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit"},
-      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit"},
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit"},
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit"},
       { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit"},
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit"},
       { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set"},
@@ -395,7 +374,7 @@ export const roomsData = {
     capacity: "",
     nameClass: "Ruang Serbaguna",
     building: "SMP",
-    floor: "1",
+    floor: "2",
     roomNumber: "R03-02-02",
     images: [
       {
@@ -404,14 +383,15 @@ export const roomsData = {
       }
     ],
      assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "31 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "27 unit" },
       { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit"},
       { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit"},
       { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/water-boiler.svg", name: "Water Boiler", count: "1 unit" },
       { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
       { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
-      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Layar Proyektor", count: "1 unit" },
       { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
       { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
       { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit"},
@@ -419,7 +399,7 @@ export const roomsData = {
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit"},
       { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit"},
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit"},
-      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit"},
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "6 Unit"},
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit"},
       { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set"},
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit"},
