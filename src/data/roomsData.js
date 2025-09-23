@@ -645,9 +645,9 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja", count: "6 unit" },
-      { icon: "/icons/chair-chitose.svg", name: "Kursi", count: "7 unit" },
-      { icon: "/icons/teacherChair.svg", name: "Kursi Office", count: "2 unit" },
+      { icon: "/icons/table.svg", name: "Meja", count: "6 Unit" },
+      { icon: "/icons/chair-chitose.svg", name: "Kursi", count: "7 Unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Office", count: "2 Unit" },
       { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
       { icon: "/icons/cabinet.svg", name: "Loker", count: "1 Unit" },
       { icon: "/icons/mirror.svg", name: "Cermin", count: "1 Unit" },
