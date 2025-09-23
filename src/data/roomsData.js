@@ -33,7 +33,7 @@ export const roomsData = {
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "2 unit" },
       { icon: "/icons/teacherChair.svg", name: "Kursi", count: "7 unit"},
-      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "1 unit" }
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "1 unit" },
       { icon: "/icons/lockers.svg", name: "Lemari", count: "6 Unit"},
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit"},
       { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit"},
