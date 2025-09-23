@@ -682,7 +682,6 @@ export const roomsData = {
       { icon: "/icons/studentChair.svg", name: "Kursi", count: "1 Unit" },
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
       { icon: "/icons/height.svg", name: "Pengukur Tinggi Badan", count: "1 Unit" },
       { icon: "/icons/curtain.svg", name: "Gorden", count: "3 Unit" },
       { icon: "/icons/bed-uks.svg", name: "Kasur UKS", count: "1 Unit" },
