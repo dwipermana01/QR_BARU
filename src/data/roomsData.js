@@ -585,6 +585,7 @@ export const roomsData = {
       { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 Unit" },
       { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/p3k.svg", name: "P3K", count: "2 Unit" },
       { icon: "/icons/stopcontact.svg", name: "Stopcontact", count: "2 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
       { icon: "/icons/scales.svg", name: "Timbangan Analitik", count: "1 Unit" },
