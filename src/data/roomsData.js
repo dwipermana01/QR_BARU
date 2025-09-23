@@ -43,7 +43,7 @@ export const roomsData = {
       { icon: "/icons/wastafel.svg", name: "Wastafel", count: "1 Unit"},
       { icon: "/icons/fotocopy.svg", name: "Printer", count: "2 Unit"}
     ],
-    mapImage: "/maps/r030202.jpg",
+    mapImage: "",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
       { number: 4, name: "Papan Data Informasi", color: "#d7d7d7"},
