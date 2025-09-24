@@ -246,8 +246,9 @@ export const roomsData = {
     ]
   },
 
+  // Kelas VII A
   "030106": {
-    name: "Ruang Kelas VII A",
+    name: "Ruang Kelas VII B",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
     nameClass: "Ruang Kelas VII A",
@@ -309,7 +310,7 @@ export const roomsData = {
   },
 
   "030107": {
-    name: "Ruang Kelas VII B",
+    name: "Ruang Kelas VII A",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
     nameClass: "Ruang Kelas VII B",
@@ -341,9 +342,30 @@ export const roomsData = {
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030107.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Meja Siswa", color: "#8AA3FF" },
+      { number: 2, name: "Kursi Siswa", color: "#8AA3FF" },
+      { number: 3, name: "Speaker", color: "#0C0950" },
+      { number: 4, name: "Meja Guru", color: "#BB710E" },
+      { number: 5, name: "Kursi Guru", color: "#BB710E" },
+      { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
+      { number: 7, name: "Proyektor", color: "#FF7878" },
+      { number: 8, name: "Layar Proyektor", color: "#FED2E3" },
+      { number: 9, name: "Papan Tulis", color: "#641B2E", textColor: "#FFFFFF" },
+      { number: 10, name: "IP Camera", color: "#FDFF84" },
+      { number: 11, name: "Loker", color: "#C2C2C2" },
+      { number: 12, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 13, name: "Lemari", color: "#E2B349" },
+      { number: 14, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
+      { number: 15, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
+      { number: 16, name: "Lambang Garuda", color: "#B55E55" },
+      { number: 17, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55" },
+      { number: 18, name: "Papan Data Informasi", color: "#FF9188" },
+      { number: 19, name: "Papan Tulis Hijau", color: "#00AF50" },
+      { number: 20, name: "Router", color: "#F4F4F4" },
+      { number: 21, name: "Pintu Masuk", color: "#FFFFFF" },
+      { number: 22, name: "Jendela", color: "#FFFFFF" }
     ]
   },
 
