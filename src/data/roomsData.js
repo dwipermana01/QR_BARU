@@ -299,7 +299,7 @@ export const roomsData = {
       { number: 14, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
       { number: 15, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
       { number: 16, name: "Lambang Garuda", color: "#B55E55" },
-      { number: 17, name: "Bingkai", color: "#B55E55" },
+      { number: 17, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55" },
       { number: 18, name: "Papan Data Informasi", color: "#FF9188" },
       { number: 19, name: "Papan Tulis Hijau", color: "#00AF50" },
       { number: 20, name: "Router", color: "#F4F4F4" },
