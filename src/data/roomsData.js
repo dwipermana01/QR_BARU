@@ -885,7 +885,7 @@ export const roomsData = {
         alt: "Bagian Depan Ruang Maker Space"
       },
       {
-        src: "/images/rooms/makerspace/maker12.jpg",
+        src: "/images/rooms/makerspace/maker2.jpg",
         alt: "Bagian Depan Ruang Maker Space"
       },
       {
