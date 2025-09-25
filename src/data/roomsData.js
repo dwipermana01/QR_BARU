@@ -142,9 +142,22 @@ export const roomsData = {
       { icon: "/icons/nursecall.svg", name: "Nurse Call Aiphone", count: "1 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "3 Unit"}
     ],
-    mapImage: "",
+    mapImage: "/maps/r030103.jpg",
     legendItems: [
-      { number: 1, name: "Pintu Kelas", color: "#fffff"}
+      { number: 1, name: "Pintu Masuk", color: "#fffff"},
+      { number: 2, name: "Meja", color: "#8AA3FF"},
+      { number: 3, name: "Kursi", color: "#8AA3FF"},
+      { number: 4, name: "Papan Data Informasi", color: "#d7d7d7"},
+      { number: 5, name: "Lemari", color: "#BB710E"},
+      { number: 6, name: "Air Codnitioner", color: "#E9ECFF"},
+      { number: 7, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 8, name: "Salib", color: "#887E7D" },
+      { number: 9, name: "Kipas Angin", color: "#3E6DE1" },
+      { number: 10, name: "Webex Board", color: "#191919" },
+      { number: 11, name: "Speaker", color: "#0C0950" },
+      { number: 12, name: "Mesin Foto Copy", color: "#01B051" },
+      { number: 13, name: "Mixer Audio", color: "#B14DFF" },
+      { number: 14, name: "Jendela", color: "#fffff" }
     ]
   },
 
