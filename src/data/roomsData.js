@@ -914,6 +914,7 @@ export const roomsData = {
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "3 Unit" },
       { icon: "/icons/kursi-lab.svg", name: "Kursi Lab", count: "1 Unit" },
+      { icon: "/icons/papantulisdigital.svg", name: "Papan Tulis Digital", count: "1 Unit" },
       { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
       { icon: "/icons/stopcontact.svg", name: "Stopcontact", count: "6 Unit" },
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
