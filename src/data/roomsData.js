@@ -246,23 +246,31 @@ export const roomsData = {
     ]
   },
 
-  // Kelas VII A
+  // Kelas VII B
   "030106": {
     name: "Ruang Kelas VII B",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
-    nameClass: "Ruang Kelas VII A",
+    nameClass: "Ruang Kelas VII B",
     building: "SMP",
     floor: "1",
     roomNumber: "R03-01-06",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/VIIB/viib1.jpeg",
+        alt: "Bagian Depan Kelas VII B"
+      },
+      {
+        src: "/images/rooms/VIIB/viib2.jpeg",
+        alt: "Bagian Samping dan Belakang Kelas VII B"
+      },
+      {
+        src: "/images/rooms/VIIB/viib3.jpeg",
+        alt: "Bagian Samping dan Belakang Kelas VII B"
+      },
     ],
     assets: [
-      { icon: "/icons/table.svg", name: "Meja Siswa", count: "26 Unit" },
+      { icon: "/icons/table.svg", name: "Meja Siswa", count: "33 Unit" },
       { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "26 Unit" },
       { icon: "/icons/speaker.svg", name: "Speaker", count: "2 Unit" },
       { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 Unit" },
@@ -274,7 +282,7 @@ export const roomsData = {
       { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
       { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
       { icon: "/icons/curtain.svg", name: "Gorden", count: "6 Unit" },
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
       { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
@@ -282,7 +290,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030106.jpg",
+    mapImage: "/maps/r030106.jpg", 
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF" },
       { number: 2, name: "Kursi Siswa", color: "#8AA3FF" },
@@ -296,7 +304,7 @@ export const roomsData = {
       { number: 10, name: "IP Camera", color: "#FDFF84" },
       { number: 11, name: "Loker", color: "#C2C2C2" },
       { number: 12, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
-      { number: 13, name: "Lemari", color: "#E2B349" },
+      { number: 13, name: "Lemari", color: "#E08A13" },
       { number: 14, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
       { number: 15, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
       { number: 16, name: "Lambang Garuda", color: "#B55E55" },
@@ -313,7 +321,7 @@ export const roomsData = {
     name: "Ruang Kelas VII A",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
-    nameClass: "Ruang Kelas VII B",
+    nameClass: "Ruang Kelas VII A",
     building: "SMP",
     floor: "1",
     roomNumber: "R03-01-07",
