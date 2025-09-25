@@ -327,9 +327,21 @@ export const roomsData = {
     roomNumber: "R03-01-07",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/VIIA/viia1.jpeg",
+        alt: "Bagian Depan dan Samping Kelas VII A"
+      },
+      {
+        src: "/images/rooms/VIIA/viia4.jpeg",
+        alt: "Bagian Depan dan Samping Kelas VII A"
+      },
+      {
+        src: "/images/rooms/VIIA/viia2.jpeg",
+        alt: "Bagian Belakang dan Samping Kelas VII A"
+      },
+      {
+        src: "/images/rooms/VIIA/viia3.jpeg",
+        alt: "Bagian Belakang dan Samping Kelas VII A"
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja Siswa", count: "26 Unit" },
