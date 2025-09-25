@@ -56,6 +56,7 @@ export const roomsData = {
       { number: 9, name: "Wastafel", color: "#D7D7D7" },
       { number: 10, name: "Laci", color: "#C8C8C8" },
       { number: 11, name: "Monitor/TV", color: "#2C2C2C", textColor: "#FFFFFF" },
+    ] 
   },
 
   
