@@ -152,8 +152,8 @@ export const roomsData = {
       { number: 7, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
       { number: 8, name: "Salib", color: "#887E7D" },
       { number: 9, name: "Kipas Angin", color: "#3E6DE1" },
-      { number: 10, name: "Webex Board", color: "#191919" },
-      { number: 11, name: "Speaker", color: "#0C0950" },
+      { number: 10, name: "Webex Board", color: "#191919", textColor: "#FFFFFF" },
+      { number: 11, name: "Speaker", color: "#0C0950", textColor: "#FFFFFF" },
       { number: 12, name: "Mesin Foto Copy", color: "#01B051" },
       { number: 13, name: "Mixer Audio", color: "#B14DFF" },
       { number: 14, name: "Jendela", color: "#fffff" }
@@ -306,7 +306,7 @@ export const roomsData = {
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF" },
       { number: 2, name: "Kursi Siswa", color: "#8AA3FF" },
-      { number: 3, name: "Speaker", color: "#0C0950" },
+      { number: 3, name: "Speaker", color: "#0C0950", textColor: "#FFFFFF" },
       { number: 4, name: "Meja Guru", color: "#BB710E" },
       { number: 5, name: "Kursi Guru", color: "#BB710E" },
       { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
@@ -320,7 +320,7 @@ export const roomsData = {
       { number: 14, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
       { number: 15, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
       { number: 16, name: "Lambang Garuda", color: "#B55E55" },
-      { number: 17, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55" },
+      { number: 17, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#FFFFFF" },
       { number: 18, name: "Papan Data Informasi", color: "#FF9188" },
       { number: 19, name: "Papan Tulis Hijau", color: "#00AF50" },
       { number: 20, name: "Router", color: "#F4F4F4" },
@@ -378,7 +378,7 @@ export const roomsData = {
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF" },
       { number: 2, name: "Kursi Siswa", color: "#8AA3FF" },
-      { number: 3, name: "Speaker", color: "#0C0950" },
+      { number: 3, name: "Speaker", color: "#0C0950", textColor: "#FFFFFF" },
       { number: 4, name: "Meja Guru", color: "#BB710E" },
       { number: 5, name: "Kursi Guru", color: "#BB710E" },
       { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
