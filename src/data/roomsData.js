@@ -43,21 +43,19 @@ export const roomsData = {
       { icon: "/icons/wastafel.svg", name: "Wastafel", count: "1 Unit"},
       { icon: "/icons/fotocopy.svg", name: "Printer", count: "2 Unit"}
     ],
-    mapImage: "",
+    mapImage: "/maps/r030101.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
-      { number: 4, name: "Papan Data Informasi", color: "#d7d7d7"},
-      { number: 5, name: "Lemari", color: "#ff8c8e"},
-      { number: 7, name: "Tempat Sampah", color: "#379e90", textColor: "#fffff"},
-      { number: 8, name: "Papan Tulis", color: "#641b2e", textColor: "#fffff"},
-      { number: 11, name: "Kursi Guru", color: "#ffc000"},
-      { number: 12, name: "Meja Guru", color: "#fbdb93"},
-      { number: 16, name: "Kursi & Meja Siswa", color: "#89a3fe"},
-      { number: 17, name: "AC", color: "#e9ecff"},
-      { number: 18, name: "Jendela", color: "#fffff"},
-      { number: 20, name: "Loker", color: "#ffff7f"},
-      { number: 22, name: "Jam Dinding", color: "#2c9df5", textColor: "#fffff"}
-    ]
+      { number: 2, name: "Meja", color: "#8AA3FF"},
+      { number: 3, name: "Kursi", color: "#8AA3FF"},
+      { number: 4, name: "Papan Data Informasi", color: "#D4D5E7"},
+      { number: 5, name: "Lemari", color: "#BB710E"},
+      { number: 6, name: "Air Codnitioner", color: "#E9ECFF"},
+      { number: 7, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 8, name: "Dispenser", color: "#C5DCFE" },
+      { number: 9, name: "Wastafel", color: "#D7D7D7" },
+      { number: 10, name: "Laci", color: "#C8C8C8" },
+      { number: 11, name: "Monitor/TV", color: "#2C2C2C", textColor: "#FFFFFF" },
   },
 
   
@@ -92,7 +90,7 @@ export const roomsData = {
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "3 Unit"},
       { icon: "/icons/patung.svg", name: "Patung", count: "2 Unit"},
     ],
-    mapImage: "/maps/r030202.jpg",
+    mapImage: "",
     legendItems: [
       { number: 1, name: "Pintu Kelas", color: "#fffff"}
     ]
