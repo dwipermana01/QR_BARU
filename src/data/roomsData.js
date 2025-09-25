@@ -881,9 +881,25 @@ export const roomsData = {
     roomNumber: "R03-04-01",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/makerspace/maker1.jpg",
+        alt: "Bagian Depan Ruang Maker Space"
+      },
+      {
+        src: "/images/rooms/makerspace/maker12.jpg",
+        alt: "Bagian Depan Ruang Maker Space"
+      },
+      {
+        src: "/images/rooms/makerspace/maker3.jpg",
+        alt: "Bagian Belakang Ruang Maker Space"
+      },
+      {
+        src: "/images/rooms/makerspace/maker4.jpg",
+        alt: "Bagian Belakang Ruang Maker Space"
+      },
+      {
+        src: "/images/rooms/makerspace/maker5.jpg",
+        alt: "Bagian Belakang Ruang Maker Space"
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "18 unit" },
