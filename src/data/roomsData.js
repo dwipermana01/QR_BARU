@@ -327,19 +327,19 @@ export const roomsData = {
     roomNumber: "R03-01-07",
     images: [
       {
-        src: "/images/rooms/VIIA/viia1.jpeg",
+        src: "/images/rooms/VIIA/viia1.jpg",
         alt: "Bagian Depan dan Samping Kelas VII A"
       },
       {
-        src: "/images/rooms/VIIA/viia4.jpeg",
+        src: "/images/rooms/VIIA/viia4.jpg",
         alt: "Bagian Depan dan Samping Kelas VII A"
       },
       {
-        src: "/images/rooms/VIIA/viia2.jpeg",
+        src: "/images/rooms/VIIA/viia2.jpg",
         alt: "Bagian Belakang dan Samping Kelas VII A"
       },
       {
-        src: "/images/rooms/VIIA/viia3.jpeg",
+        src: "/images/rooms/VIIA/viia3.jpg",
         alt: "Bagian Belakang dan Samping Kelas VII A"
       },
     ],
