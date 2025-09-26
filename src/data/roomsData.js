@@ -10,24 +10,32 @@ export const roomsData = {
     floor: "3",
     roomNumber: "R03-01-01",
     
-    // field images untuk carousel
+    
     images: [
       {
-        src: "/images/rooms/7a/kelas-7a-view1.jpeg",
-        alt: "Tampak depan Kelas St. Cecilia"
+        src: "/images/rooms/tu/tu1.jpg",
+        alt: "Bagian Depan TU"
       },
       {
-        src: "/images/rooms/7a/kelas-7a-view2.jpeg", 
-        alt: "Suasana belajar di Kelas St. Cecilia"
+        src: "/images/rooms/tu/tu2.jpg",
+        alt: "Bagian Tengah TU"
       },
       {
-        src: "/images/rooms/7a/kelas-7a-view3.jpeg",
-        alt: "Fasilitas AC dan proyektor Kelas St. Cecilia"
+        src: "/images/rooms/tu/tu3.jpg",
+        alt: "Bagian Pintu TU"
       },
       {
-        src: "/images/rooms/7a/kelas-7a-view4.jpeg",
-        alt: "Bagian belakang Kelas St. Cecilia"
-      }
+        src: "/images/rooms/tu/tu4.jpg",
+        alt: "Bagian Tengah TU"
+      },
+      {
+        src: "/images/rooms/tu/tu5.jpg",
+        alt: "Bagian Dapur TU"
+      },
+      {
+        src: "/images/rooms/tu/tu6.jpg",
+        alt: "Bagian Dapur TU"
+      },
     ],
     
     assets: [
@@ -91,9 +99,20 @@ export const roomsData = {
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "3 Unit"},
       { icon: "/icons/patung.svg", name: "Patung", count: "2 Unit"},
     ],
-    mapImage: "",
+    mapImage: "/maps/r030102.jpg",
     legendItems: [
-      { number: 1, name: "Pintu Kelas", color: "#fffff"}
+      { number: 1, name: "Pintu Kelas", color: "#fffff"},
+      { number: 2, name: "Meja", color: "#8AA3FF"},
+      { number: 3, name: "Kursi", color: "#8AA3FF"},
+      { number: 4, name: "Papan Data Informasi", color: "#D4D5E7"},
+      { number: 5, name: "Lemari", color: "#BB710E", textColor: "#FFFFFF" },
+      { number: 6, name: "Air Codnitioner", color: "#E9ECFF"},
+      { number: 7, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 8, name: "Printer", color: "#F6A7A3" },
+      { number: 9, name: "Bingkai Foto", color: "#384AAE" },
+      { number: 10, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
+      { number: 10, name: "Bingkai Presiden dan Wakil Presiden", color: "#BD5B50", textColor: "#FFFFFF" },
+      { number: 11, name: "TV", color: "#191919", textColor: "#FFFFFF" },
     ]
   },
   
