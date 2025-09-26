@@ -144,7 +144,7 @@ export const roomsData = {
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja Meeting", count: "1 set Unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Meeting", count: "12 Unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi", count: "12 Unit" },
       { icon: "/icons/speaker.svg", name: "Speaker", count: "1 Unit" },
       { icon: "/icons/mic.svg", name: "Microphone", count: "1 Unit" },
       { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "1 Unit" }, 
@@ -164,7 +164,7 @@ export const roomsData = {
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF"},
-      { number: 3, name: "Kursi", color: "#8AA3FF"},
+      { number: 3, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF"},
       { number: 4, name: "Papan Data Informasi", color: "#d7d7d7"},
       { number: 5, name: "Lemari", color: "#BB710E"},
       { number: 6, name: "Air Codnitioner", color: "#E9ECFF"},
