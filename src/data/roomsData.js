@@ -324,7 +324,7 @@ export const roomsData = {
     mapImage: "/maps/r030106.jpg", 
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF" },
-      { number: 2, name: "Kursi Siswa", color: "#8AA3FF" },
+      { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
       { number: 3, name: "Speaker", color: "#0C0950", textColor: "#FFFFFF" },
       { number: 4, name: "Meja Guru", color: "#BB710E" },
       { number: 5, name: "Kursi Guru", color: "#BB710E" },
