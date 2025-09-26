@@ -55,7 +55,7 @@ export const roomsData = {
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF"},
-      { number: 3, name: "Kursi", color: "#8AA3FF"},
+      { number: 3, name: "Kursi", color: "#FE0000"},
       { number: 4, name: "Papan Data Informasi", color: "#D4D5E7"},
       { number: 5, name: "Lemari", color: "#BB710E"},
       { number: 6, name: "Air Codnitioner", color: "#E9ECFF"},
@@ -103,7 +103,7 @@ export const roomsData = {
     legendItems: [
       { number: 1, name: "Pintu Kelas", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF"},
-      { number: 3, name: "Kursi", color: "#8AA3FF"},
+      { number: 3, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
       { number: 4, name: "Papan Data Informasi", color: "#D4D5E7"},
       { number: 5, name: "Lemari", color: "#BB710E", textColor: "#FFFFFF" },
       { number: 6, name: "Air Codnitioner", color: "#E9ECFF"},
