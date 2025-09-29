@@ -1246,7 +1246,10 @@ export const roomsData = {
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "2 unit" },
-      { icon: "/icons/apar.svg", name: "Alat Pemadam Api", count: "1 Unit" }
+      { icon: "/icons/apar.svg", name: "Alat Pemadam Api", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "3 Unit" },
+      { icon: "/icons/dispenser.svg", name: "Dispenser", count: "1 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
     ],
     mapImage: "/maps/r030403.jpg",
     legendItems: [
