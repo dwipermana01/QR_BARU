@@ -839,9 +839,13 @@ export const roomsData = {
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
       { icon: "/icons/water-dispenser.svg", name: "Dispenser", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030303.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Meja", color: "#8AA3FF" },
+      { number: 2, name: "Kursi", color: "#FE0000" },
+      { number: 3, name: "Lemari", color: "#90502A" },
+      { number: 4, name: "Dispenser", color: "#C5DCFE" },
+      { number: 5, name: "Pintu Masuk", color: "#FFFFFF" }
     ]
   },
 
@@ -872,9 +876,17 @@ export const roomsData = {
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "3 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030304.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Pintu Masuk", color: "#fffff" },
+      { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
+      { number: 3, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
+      { number: 4, name: "Kipas Angin", color: "#346AF1", textColor: "#FFFFFF" },
+      { number: 5, name: "Lemari", color: "#90502A", textColor: "#FFFFFF" },
+      { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
+      { number: 7, name: "Wastafel", color: "#00AF50", textColor: "#FFFFFF" },
+      { number: 8, name: "Cermin", color: "#D0E8FF"  },
+      { number: 9, name: "Jendela", color: "#ffffff" },
     ]
   },
 
@@ -893,9 +905,8 @@ export const roomsData = {
       }
     ],
     assets: [
-      { icon: "/icons/teacherDesk.svg", name: "Meja", count: "1 Unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Laci", count: "1 Unit" },
       { icon: "/icons/studentChair.svg", name: "Kursi", count: "1 Unit" },
-      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
       { icon: "/icons/height.svg", name: "Pengukur Tinggi Badan", count: "1 Unit" },
       { icon: "/icons/curtain.svg", name: "Gorden", count: "3 Unit" },
@@ -907,9 +918,16 @@ export const roomsData = {
       { icon: "/icons/fan.svg", name: "Kipas Angin", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030305.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Pintu Masuk", color: "#fffff" },
+      { number: 2, name: "Meja Laci", color: "#8AA3FF" },
+      { number: 3, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
+      { number: 4, name: "Kipas Angin", color: "#346AF1", textColor: "#FFFFFF" },
+      { number: 5, name: "Kasur UKS", color: "#01455C", textColor: "#FFFFFF" },
+      { number: 6, name: "Tangga Ranjang UKS", color: "#CED8E2" },
+      { number: 7, name: "Jendela", color: "#ffffff" },
+      { number: 8, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" }
     ]
   },
 
