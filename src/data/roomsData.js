@@ -1131,6 +1131,7 @@ export const roomsData = {
       { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/router.svg", name: "Router", count: "1 unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi Kelas", count: "1 Unit" }
     ],
     mapImage: "/maps/r030401.jpg",
@@ -1153,7 +1154,8 @@ export const roomsData = {
       { number: 16, name: "Jendela", color: "#ffffff"},
       { number: 17, name: "Stopcontact", color: "#f4f4f4"},
       { number: 18, name: "Gorden", color: "#f4f4f4"},
-      { number: 19, name: "Loker", color: "#C2C2C2" }
+      { number: 19, name: "Loker", color: "#C2C2C2" },
+      { number: 20, name: "Router", color: "#f4f4f4"}
     ]
   },
 
