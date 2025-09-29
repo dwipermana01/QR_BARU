@@ -1323,6 +1323,7 @@ export const roomsData = {
       { number: 17, name: "Kursi Guru", color: "#B65B00", textColor: "#FFFFFF" },
       { number: 18, name: "Speaker", color: "#0C0950", textColor: "#FFFFFF" },
       { number: 19, name: "CCTV", color: "#797574", textColor: "#FFFFFF" },
+      { number: 20, name: "Router", color: "#F4F4F4" },
     ]
   },
 
