@@ -421,10 +421,10 @@ export const roomsData = {
   },
 
   "030201": {
-    name: "Kelas IX C",
+    name: "Kelas VIII C",
     location: "Lantai 2 - Gedung SMP",
     capacity: "",
-    nameClass: "Kelas IX C",
+    nameClass: "Kelas VIII C",
     building: "SMP",
     floor: "2",
     roomNumber: "R03-02-01",
@@ -573,10 +573,10 @@ export const roomsData = {
   },
 
   "030204": {
-    name: "Kelas IX B",
+    name: "Kelas VIII B",
     location: "Lantai 2 - Gedung SMP",
     capacity: "",
-    nameClass: "Kelas IX B",
+    nameClass: "Kelas VIII B",
     building: "SMP",
     floor: "2",
     roomNumber: "R03-02-04",
@@ -633,10 +633,10 @@ export const roomsData = {
   },
 
   "030205": {
-    name: "Kelas IX A",
+    name: "Kelas VIII A",
     location: "Lantai 2 - Gedung SMP",
     capacity: "",
-    nameClass: "Kelas IX A",
+    nameClass: "Kelas VIII A",
     building: "SMP",
     floor: "2",
     roomNumber: "R03-02-05",
@@ -694,10 +694,10 @@ export const roomsData = {
   },
 
   "030301": {
-    name: "Kelas VII B",
+    name: "Kelas XI B",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
-    nameClass: "Kelas VII B",
+    nameClass: "Kelas XI B",
     building: "SMP",
     floor: "3",
     roomNumber: "R03-03-01",
@@ -729,17 +729,37 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030301.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
+      { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
+      { number: 3, name: "Speaker", color: "#0C0950", textColor: "#FFFFFF" },
+      { number: 4, name: "Meja Guru", color: "#BB710E", textColor: "#FFFFFF" }, 
+      { number: 5, name: "Kursi Guru", color: "#BB710E", textColor: "#FFFFFF" },
+      { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
+      { number: 7, name: "Proyektor", color: "#FF7878", textColor: "#FFFFFF" },
+      { number: 8, name: "Layar Proyektor", color: "#FED2E3" },
+      { number: 9, name: "Papan Tulis", color: "#641B2E", textColor: "#FFFFFF" },
+      { number: 10, name: "Loker", color: "#C2C2C2", textColor: "#FFFFFF" },  
+      { number: 11, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 12, name: "Lemari", color: "#FEB57E", textColor: "#FFFFFF" },
+      { number: 13, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
+      { number: 14, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
+      { number: 15, name: "Lambang Garuda", color: "#B55E55", textColor: "#FFFFFF" },
+      { number: 16, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#FFFFFF" },
+      { number: 17, name: "Papan Data Informasi", color: "#FF9188", textColor: "#FFFFFF" },
+      { number: 18, name: "Papan Tulis Hijau", color: "#00AF50", textColor: "#FFFFFF" },
+      { number: 19, name: "Router", color: "#F4F4F4" },
+      { number: 20, name: "Pintu Masuk", color: "#FFFFFF" },
+      { number: 21, name: "Jendela", color: "#FFFFFF" }
     ]
   },
 
   "030302": {
-    name: "Kelas VII A",
+    name: "Kelas XI A",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
-    nameClass: "Kelas VII A",
+    nameClass: "Kelas XI A",
     building: "SMP",
     floor: "3",
     roomNumber: "R03-03-02",
