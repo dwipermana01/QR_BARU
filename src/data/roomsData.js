@@ -1053,7 +1053,6 @@ export const roomsData = {
       { icon: "/icons/teacherDesk.svg", name: "Meja", count: "1 Unit" },
       { icon: "/icons/studentChair.svg", name: "Kursi", count: "2 Unit" },
       { icon: "/icons/lockers.svg", name: "Lemari", count: "1 Unit" },
-      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
       { icon: "/icons/loker.svg", name: "Laci", count: "1 Unit" },
       { icon: "/icons/bed-uks.svg", name: "Kasur UKS", count: "1 Unit" },
       { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
@@ -1064,9 +1063,21 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030308.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Pintu Masuk", color: "#fffff" },
+      { number: 2, name: "Meja", color: "#8AA3FF" },
+      { number: 3, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
+      { number: 4, name: "Kipas Angin", color: "#346AF1", textColor: "#FFFFFF" },
+      { number: 5, name: "Kasur UKS", color: "#01455C", textColor: "#FFFFFF" },
+      { number: 6, name: "Tangga Ranjang UKS", color: "#CED8E2" },
+      { number: 7, name: "Jendela", color: "#ffffff" },
+      { number: 8, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 9, name: "Lemari", color: "#8B5032", textColor: "#FFFFFF" },
+      { number: 10, name: "Laci", color: "#E08A13", textColor: "#FFFFFF" },
+      { number: 11, name: "Lambang Garuda", color: "#B55E55", textColor: "#FFFFFF" },
+      { number: 12, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#FFFFFF" },
+      { number: 13, name: "Papan Data Informasi", color: "#f2eae9ff" },
     ]
   },
 
