@@ -960,9 +960,20 @@ export const roomsData = {
       { icon: "/icons/kulkas.svg", name: "Kulkas", count: "1 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030306.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Pintu Masuk", color: "#fffff" },
+      { number: 2, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
+      { number: 3, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
+      { number: 4, name: "Wastafel", color: "#C7C7C7" },
+      { number: 5, name: "Jendela", color: "#ffffff" },
+      { number: 6, name: "Lemari", color: "#8E502B", textColor: "#FFFFFF" },
+      { number: 7, name: "Dispenser", color: "#C5DCFE"  },
+      { number: 8, name: "Kulkas", color: "#696969", textColor: "#FFFFFF" },
+      { number: 9, name: "Water Purifier", color: "#87A2D7" },
+      { number: 10, name: "Kompor", color: "#668CBB" },
+      { number: 11, name: "Disepenser Plastik", color: "#D0F1EA" },
+      { number: 12, name: "Papan Data Informasi", color: "#FFFFFF" }
     ]
   },
 
