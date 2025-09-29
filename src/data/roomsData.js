@@ -1248,9 +1248,16 @@ export const roomsData = {
       { icon: "/icons/table.svg", name: "Meja", count: "2 unit" },
       { icon: "/icons/apar.svg", name: "Alat Pemadam Api", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030403.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Meja", color: "#8AA3FF" },
+      { number: 2, name: "Kursi", color: "#FE0000" },
+      { number: 3, name: "Lemari", color: "#90502A" },
+      { number: 4, name: "Dispenser", color: "#C5DCFE" },
+      { number: 5, name: "Pintu Masuk", color: "#FFFFFF" },
+      { number: 6, name: "Jendela", color: "#FFFFFF" },
+      { number: 7, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      {number: 8, name: "Pintu Masuk", color : "#FFFFFF" }
     ]
   },
 
