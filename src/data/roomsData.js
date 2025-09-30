@@ -414,9 +414,17 @@ export const roomsData = {
     roomNumber: "R03-02-01",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/VIIIC/viiic2.jpg",
+        alt: "Bagian Depan Kelas VIII C"
+      },
+      {
+        src: "/images/rooms/VIIIC/viiic3.jpg",
+        alt: "Bagian Depan Kelas VIII C"
+      },
+      {
+        src: "/images/rooms/VIIIC/viiic1.jpg",
+        alt: "Bagian Belakang Kelas VIII C"
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja Siswa", count: "25 Unit" },
