@@ -565,12 +565,18 @@ export const roomsData = {
     ],
     assets: [
       { icon: "/icons/water-dispenser.svg", name: "Dispenser", count: "1 Unit" },
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
-      { icon: "/icons/table.svg", name: "Meja", count: "2 Unit" }
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit" },
+      { icon: "/icons/table.svg", name: "Meja", count: "1 Unit" },
+      { icon: "/icons/chair-chitose.svg", name: "Kursi", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030203.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
+      { number: 2, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
+      { number: 3, name: "Dispenser", color: "#cfd7ff" },
+      { number: 4, name: "Lemari", color: "#BB710E", textColor: "#FFFFFF" },
+      { number: 5, name: "Pintu Masuk", color: "#FFFFFF" },
+      { number: 6, name: "Jendela", color: "#FFFFFF" }
     ]
   },
 
@@ -1364,9 +1370,28 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "",
+    mapImage: "/maps/r030405.jpg",
     legendItems: [
-      { number: "", name: "", color: "" }
+      { number: 1, name: "Pintu Masuk", color: "#ffffff" },
+      { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#ffffff"},
+      { number: 3, name: "Kursi", color: "#FE0000", textColor: "#ffffff"},
+      { number: 4, name: "Air Conditioner", color: "#E9ECFF" },
+      { number: 5, name: "Projector", color: "#FF7878", textColor: "#ffffff"},
+      { number: 6, name: "Layar Proyektor", color: "#FED2E3"},
+      { number: 7, name: "Papan Tulis", color: "#641B2E", textColor: "#ffffff"},
+      { number: 8, name: "Jam Dinding", color: "#2B9DF5", textColor: "#ffffff"},
+      { number: 9, name: "Lemari", color: "#FEB57E", textColor: "#ffffff"},
+      { number: 10, name: "Bendera", color: "#892D3A", textColor: "#ffffff"},
+      { number: 11, name: "Lambang Garuda", color: "#B55E55", textColor: "#ffffff"},
+      { number: 12, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#ffffff"},
+      { number: 13, name: "Papan Data Informasi", color: "#FF9188", textColor: "#ffffff"},
+      { number: 14, name: "Jendela", color: "#ffffff"},
+      { number: 15, name: "Loker", color: "#C2C2C2" },
+      { number: 16, name: "Speaker", color: "#0C0950", textColor: "#ffffff"},
+      { number: 17, name: "Cajon", color: "#44BDAC", textColor: "#ffffff"},
+      { number: 18, name: "Sound", color: "#000000", textColor: "#ffffff"},
+      { number: 19, name: "Router", color: "#F4F4F4" },
+
     ]
   },
 
