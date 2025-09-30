@@ -414,7 +414,7 @@ export const roomsData = {
     roomNumber: "R03-02-01",
     images: [
       {
-        src: "/images/rooms/VIIIC/viiic2.jpg",
+        src: "/images/rooms/VIIIC/viiic2.jpg", 
         alt: "Bagian Depan Kelas VIII C"
       },
       {
