@@ -632,7 +632,7 @@ export const roomsData = {
     roomNumber: "R03-02-05",
     images: [
       {
-        src: "/images/rooms/VIIIA/viiia1.jpg",
+        src: "/images/rooms/VIIIA/viiia3.jpg",
         alt: "Bagian Depan Kelas VIII A"
       },
       {
@@ -640,11 +640,11 @@ export const roomsData = {
         alt: "Bagian Depan Kelas VIII A"
       },
       {
-        src: "/images/rooms/VIIIA/viiia2.jpg",
+        src: "/images/rooms/VIIIA/viiia1.jpg",
         alt: "Bagian Belakang Kelas VIII A"
       },
       {
-        src: "/images/rooms/VIIIA/viiia3.jpg",
+        src: "/images/rooms/VIIIA/viiia2.jpg",
         alt: "Bagian Belakang Kelas VIII A"
       },
     ],
