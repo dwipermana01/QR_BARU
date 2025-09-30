@@ -1045,9 +1045,21 @@ export const roomsData = {
     roomNumber: "R03-03-07",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangguru/ruangguru1.jpg", 
+        alt: "Bagian Depan Ruang Guru"
+      },
+      {
+        src: "/images/rooms/ruangguru/ruangguru2.jpg", 
+        alt: "Bagian Depan Ruang Guru"
+      },
+      {
+        src: "/images/rooms/ruangguru/ruangguru3.jpg", 
+        alt: "Bagian Belakang Ruang Guru"
+      },
+      {
+        src: "/images/rooms/ruangguru/ruangguru4.jpg", 
+        alt: "Bagian Belakang Ruang Guru"
+      },
     ],
     assets: [
       { icon: "/icons/cahir-chitose.svg", name: "Kursi", count: "23 Unit" },
