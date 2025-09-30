@@ -1379,9 +1379,9 @@ export const roomsData = {
       { number: 5, name: "Kursi Guru", color: "#BB710E", textColor: "#ffffff"},
       { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
       { number: 7, name: "Projector", color: "#FF7878", textColor: "#ffffff"},
-      { number: 8, name: "Papan Tulis", color: "#641B2E", textColor: "#ffffff"},
+      { number: 8, name: "Papan Tulis", color: "#7A2039", textColor: "#ffffff"},
       { number: 9, name: "Jam Dinding", color: "#2B9DF5", textColor: "#ffffff"},
-      { number: 10, name: "Lemari", color: "#FEB57E", textColor: "#ffffff"},
+      { number: 10, name: "Lemari", color: "#90502A", textColor: "#ffffff"},
       { number: 11, name: "Bendera", color: "#892D3A", textColor: "#ffffff"},
       { number: 12, name: "Lambang Garuda", color: "#B55E55", textColor: "#ffffff"},
       { number: 13, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#ffffff"},
@@ -1392,7 +1392,8 @@ export const roomsData = {
       { number: 18, name: "Cajon", color: "#44BDAC", textColor: "#ffffff"},
       { number: 19, name: "Sound", color: "#000000", textColor: "#ffffff"},
       { number: 20, name: "Router", color: "#F4F4F4" },
-
+      { number: 21, name: "Laci", color: "#E08A13", textColor: "#ffffff" },
+      { number: 22, name: "Salib", color: "#14183D", textColor: "#ffffff" }
     ]
   },
 
