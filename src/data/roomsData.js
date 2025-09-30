@@ -474,9 +474,21 @@ export const roomsData = {
     roomNumber: "R03-02-02",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangserbaguna/serbaguna1.jpg",
+        alt: "Bagian Depan Ruang Serbaguna"
+      },
+      {
+        src: "/images/rooms/ruangserbaguna/serbaguna2.jpg",
+        alt: "Bagian Depan Ruang Serbaguna"
+      },
+      {
+        src: "/images/rooms/ruangserbaguna/serbaguna3.jpg",
+        alt: "Bagian Belakang Ruang Serbaguna"
+      },
+      {
+        src: "/images/rooms/ruangserbaguna/serbaguna4.jpg",
+        alt: "Bagian Belakang Ruang Serbaguna"
+      },
     ],
      assets: [
       { icon: "/icons/table.svg", name: "Meja Siswa", count: "31 Unit" },
