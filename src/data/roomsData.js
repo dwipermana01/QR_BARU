@@ -1045,19 +1045,19 @@ export const roomsData = {
     roomNumber: "R03-03-07",
     images: [
       {
-        src: "/images/rooms/ruangguru/ruangguru1.jpg", 
+        src: "/images/rooms/ruangguru/ruangguru1.png", 
         alt: "Bagian Depan Ruang Guru"
       },
       {
-        src: "/images/rooms/ruangguru/ruangguru2.jpg", 
+        src: "/images/rooms/ruangguru/ruangguru2.png", 
         alt: "Bagian Depan Ruang Guru"
       },
       {
-        src: "/images/rooms/ruangguru/ruangguru3.jpg", 
+        src: "/images/rooms/ruangguru/ruangguru3.png", 
         alt: "Bagian Belakang Ruang Guru"
       },
       {
-        src: "/images/rooms/ruangguru/ruangguru4.jpg", 
+        src: "/images/rooms/ruangguru/ruangguru4.png", 
         alt: "Bagian Belakang Ruang Guru"
       },
     ],
