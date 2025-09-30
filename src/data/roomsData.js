@@ -188,23 +188,11 @@ export const roomsData = {
     nameClass: "Ruangan Wakil Kepala Sekolah",
     building: "SMP",
     floor: "1",
-    roomNumber: "R03-01-02",
+    roomNumber: "R03-01-04",
     images: [
       {
-        src: "/images/rooms/ruangmeeting/meeting1.jpeg",
-        alt: "Tampak Depan TV",
-      },
-      {
-        src: "/images/rooms/ruangmeeting/meeting2.jpeg", 
-        alt: "Tampak Depan",
-      },
-      {
-        src: "/images/rooms/ruangmeeting/meeting4.jpeg",
-        alt: "Tampak Dalam 1",
-      },
-      {
-        src: "/images/rooms/ruangmeeting/meeting5.jpeg",
-        alt: "Tampak Dalam 2",
+        src: "",
+        alt: "",
       },
     ],
     assets: [
