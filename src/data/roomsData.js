@@ -997,12 +997,20 @@ export const roomsData = {
     roomNumber: "R03-03-05",
     images: [
       {
-        src: "/images/rooms/uksputri/ ",
-        alt: "Bagian Depan UKS Putri",
+        src: "/images/rooms/uksputri/uksputri2.jpg",
+        alt: "Bagian Dalam UKS Putri",
       },
       {
-        src: "/images/rooms/uksputri/ ",
-        alt: "Bagian Belakang UKS Putri",
+        src: "/images/rooms/uksputri/uksputri1.jpg",
+        alt: "Bagian Dalam UKS Putri",
+      },
+      {
+        src: "/images/rooms/uksputri/uksputri3.jpg",
+        alt: "Bagian Dalam UKS Putri",
+      },
+      {
+        src: "/images/rooms/uksputri/uksputri4.jpg",
+        alt: "Bagian Dalam UKS Putri",
       },
     ],
     assets: [
@@ -1160,12 +1168,20 @@ export const roomsData = {
     roomNumber: "R03-03-08",
     images: [
       {
-        src: "/images/rooms/uksputra/ ",
-        alt: "Bagian Depan UKS Putra",
+        src: "/images/rooms/uksputra/uksputra1.jpg",
+        alt: "Bagian Dalam UKS Putra",
       },
       {
-        src: "/images/rooms/uksputra/ ",
-        alt: "Bagian Belakang UKS Putra",
+        src: "/images/rooms/uksputra/uksputra2.jpg",
+        alt: "Bagian Dalam UKS Putra",
+      },
+      {
+        src: "/images/rooms/uksputra/uksputra3.jpg",
+        alt: "Bagian Dalam UKS Putra",
+      },
+      {
+        src: "/images/rooms/uksputra/uksputra4.jpg",
+        alt: "Bagian Dalam UKS Putra",
       },
     ],
     assets: [
@@ -1472,11 +1488,15 @@ export const roomsData = {
     roomNumber: "R03-04-05",
     images: [
       {
-        src: "/images/rooms/marketplace/ ",
+        src: "/images/rooms/marketplace/marketplace1.jpg",
         alt: "Bagian Depan Marketplace",
       },
       {
-        src: "/images/rooms/marketplace/ ",
+        src: "/images/rooms/marketplace/marketplace2.jpg",
+        alt: "Bagian Belakang Marketplace",
+      },
+      {
+        src: "/images/rooms/marketplace/marketplace3.jpg",
         alt: "Bagian Belakang Marketplace",
       },
     ],
