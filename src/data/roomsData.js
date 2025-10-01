@@ -952,12 +952,20 @@ export const roomsData = {
     roomNumber: "R03-03-04",
     images: [
       {
-        src: "/images/rooms/ruangbk/ ",
-        alt: "Bagian Depan Ruang BK",
+        src: "/images/rooms/ruangbk/bk1.jpg",
+        alt: "Bagian Dalam Ruang BK",
       },
       {
-        src: "/images/rooms/ruangbk/ ",
-        alt: "Bagian Belakang Ruang BK",
+        src: "/images/rooms/ruangbk/bk2.jpg",
+        alt: "Bagian Dalam Ruang BK",
+      },
+      {
+        src: "/images/rooms/ruangbk/bk3.jpg",
+        alt: "Bagian Dalam Ruang BK",
+      },
+      {
+        src: "/images/rooms/ruangbk/bk4.jpg",
+        alt: "Bagian Dalam Ruang BK",
       },
     ],
     assets: [
