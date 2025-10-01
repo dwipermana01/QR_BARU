@@ -1305,7 +1305,7 @@ export const roomsData = {
     nameClass: "Gudang",
     building: "SMP",
     floor: "4",
-    roomNumber: "R03-04-02",
+    roomNumber: "R03-04-03",
     images: [
       {
         src: "",
