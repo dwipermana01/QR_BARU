@@ -202,20 +202,20 @@ export const roomsData = {
     roomNumber: "R03-01-04",
     images: [
       {
-        src: "/images/rooms/ruangwakasek/ ",
-        alt: "Bagian Depan Wakil Kepala Sekolah",
+        src: "/images/rooms/ruangwakasek/wakasek1.jpg",
+        alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangwakasek/",
-        alt: "Bagian Depan Wakil Kepala Sekolah",
+        src: "/images/rooms/ruangwakasek/wakasek2.jpg",
+        alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangwakasek/ ",
-        alt: "Bagian Belakang Wakil Kepala Sekolah",
+        src: "/images/rooms/ruangwakasek/wakasek3.jpg",
+        alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangwakasek/ ",
-        alt: "Bagian Belakang Wakil Kepala Sekolah",
+        src: "/images/rooms/ruangwakasek/wakasek4.jpg",
+        alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
     ],
     assets: [
@@ -267,12 +267,20 @@ export const roomsData = {
     roomNumber: "R03-01-05",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt1/ ",
-        alt: "Bagian Depan Ruang Kebersihan",
+        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.1.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt1/ ",
-        alt: "Bagian Belakang Ruang Kebersihan",
+        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.2.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.3.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.4.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
     assets: [
@@ -588,12 +596,16 @@ export const roomsData = {
     roomNumber: "R03-02-03",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt2/ ",
-        alt: "Bagian Depan Ruang Kebersihan",
+        src: "/images/rooms/ruangkebersihanlt2/kebersihan2.1.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt2/ ",
-        alt: "Bagian Belakang Ruang Kebersihan",
+        src: "/images/rooms/ruangkebersihanlt2/kebersihan2.2.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt2/kebersihan2.3.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
     assets: [
@@ -918,12 +930,16 @@ export const roomsData = {
     roomNumber: "R03-03-03",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt3/ ",
-        alt: "Bagian Depan Ruang Kebersihan",
+        src: "/images/rooms/ruangkebersihanlt3/kebersihan3.1.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt3/ ",
-        alt: "Bagian Belakang Ruang Kebersihan",
+        src: "/images/rooms/ruangkebersihanlt3/kebersihan3.2.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt3/kebersihan3.3.jpg",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
     assets: [
