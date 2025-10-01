@@ -439,6 +439,7 @@ export const roomsData = {
     ]
   },
 
+// LANTAI 2 //
   "030201": {
     name: "Kelas VIII C",
     location: "Lantai 2 - Gedung SMP",
@@ -770,6 +771,8 @@ export const roomsData = {
     ]
   },
 
+
+  
   "030301": {
     name: "Kelas XI B",
     location: "Lantai 3 - Gedung SMP",
@@ -1240,6 +1243,7 @@ export const roomsData = {
     ]
   },
 
+// Lantai 4 //
   "030401": {
     name: "Ruang Maker Space",
     location: "Lantai 4 - Gedung SMP",
