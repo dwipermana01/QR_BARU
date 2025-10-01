@@ -1350,20 +1350,20 @@ export const roomsData = {
   },
 
   "030403": {
-    name: "Gudang",
+    name: "Ruang Kebersihan",
     location: "Lantai 4 - Gedung SMP",
     capacity: "",
-    nameClass: "Gudang",
+    nameClass: "Ruang Kebersihan",
     building: "SMP",
     floor: "4",
     roomNumber: "R03-04-03",
     images: [
       {
-        src: "/images/rooms/gudang/ ",
+        src: "/images/rooms/ruangkebersihanlt4/ ",
         alt: "Bagian Depan Gudang",
       },
       {
-        src: "/images/rooms/gudang/ ",
+        src: "/images/rooms/ruangkebersihanlt4/ ",
         alt: "Bagian Belakang Gudang",
       },
     ],
@@ -1397,11 +1397,19 @@ export const roomsData = {
     roomNumber: "R03-04-04",
     images: [
       {
-        src: "/images/rooms/ruangart/ ",
+        src: "/images/rooms/ruangart/art1.jpg",
         alt: "Bagian Depan Ruang Art",
       },
       {
-        src: "/images/rooms/ruangart/ ",
+        src: "/images/rooms/ruangart/art2.jpg",
+        alt: "Bagian Depan Ruang Art",
+      },
+      {
+        src: "/images/rooms/ruangart/art3.jpg",
+        alt: "Bagian Belakang Ruang Art",
+      },
+      {
+        src: "/images/rooms/ruangart/art4.jpg",
         alt: "Bagian Belakang Ruang Art",
       },
     ],
