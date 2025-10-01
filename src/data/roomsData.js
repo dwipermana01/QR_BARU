@@ -10,7 +10,6 @@ export const roomsData = {
     floor: "3",
     roomNumber: "R03-01-01",
     
-    
     images: [
       {
         src: "/images/rooms/tu/tu1.jpg",
@@ -79,9 +78,21 @@ export const roomsData = {
     roomNumber: "R03-01-02",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangkepsek/ ",
+        alt: "Bagian Depan Ruangan Kepala Sekolah",
+      },
+      {
+        src: "/images/rooms/ruangkepsek/ ",
+        alt: "Bagian Depan Ruangan Kepala Sekolah",
+      },
+      {
+        src: "/images/rooms/ruangkepsek/",
+        alt: "Bagian Belakang Ruangan Kepala Sekolah",
+      },
+      {
+        src: "/images/rooms/ruangkepsek/ ",
+        alt: "Bagian Belakang Ruangan Kepala Sekolah",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "4 Unit" },
@@ -191,8 +202,20 @@ export const roomsData = {
     roomNumber: "R03-01-04",
     images: [
       {
-        src: "",
-        alt: "",
+        src: "/images/rooms/ruangwakasek/ ",
+        alt: "Bagian Depan Wakil Kepala Sekolah",
+      },
+      {
+        src: "/images/rooms/ruangwakasek/",
+        alt: "Bagian Depan Wakil Kepala Sekolah",
+      },
+      {
+        src: "/images/rooms/ruangwakasek/ ",
+        alt: "Bagian Belakang Wakil Kepala Sekolah",
+      },
+      {
+        src: "/images/rooms/ruangwakasek/ ",
+        alt: "Bagian Belakang Wakil Kepala Sekolah",
       },
     ],
     assets: [
@@ -244,9 +267,13 @@ export const roomsData = {
     roomNumber: "R03-01-05",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangkebersihanlt1/ ",
+        alt: "Bagian Depan Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt1/ ",
+        alt: "Bagian Belakang Ruang Kebersihan",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "2 Unit" },
@@ -561,9 +588,13 @@ export const roomsData = {
     roomNumber: "R03-02-03",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangkebersihanlt2/ ",
+        alt: "Bagian Depan Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt2/ ",
+        alt: "Bagian Belakang Ruang Kebersihan",
+      },
     ],
     assets: [
       { icon: "/icons/water-dispenser.svg", name: "Dispenser", count: "1 Unit" },
@@ -887,9 +918,13 @@ export const roomsData = {
     roomNumber: "R03-03-03",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangkebersihanlt3/ ",
+        alt: "Bagian Depan Ruang Kebersihan",
+      },
+      {
+        src: "/images/rooms/ruangkebersihanlt3/ ",
+        alt: "Bagian Belakang Ruang Kebersihan",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "2 Unit" },
@@ -917,9 +952,13 @@ export const roomsData = {
     roomNumber: "R03-03-04",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangbk/ ",
+        alt: "Bagian Depan Ruang BK",
+      },
+      {
+        src: "/images/rooms/ruangbk/ ",
+        alt: "Bagian Belakang Ruang BK",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "6 Unit" },
@@ -958,9 +997,13 @@ export const roomsData = {
     roomNumber: "R03-03-05",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/uksputri/ ",
+        alt: "Bagian Depan UKS Putri",
+      },
+      {
+        src: "/images/rooms/uksputri/ ",
+        alt: "Bagian Belakang UKS Putri",
+      },
     ],
     assets: [
       { icon: "/icons/teacherDesk.svg", name: "Meja Laci", count: "1 Unit" },
@@ -999,9 +1042,13 @@ export const roomsData = {
     roomNumber: "R03-03-06",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/pentry/ ",
+        alt: "Bagian Depan Pentry",
+      },
+      {
+        src: "/images/rooms/pentry/ ",
+        alt: "Bagian Belakang Pentry",
+      },
     ],
     assets: [
       { icon: "/icons/loker.svg", name: "Laci", count: "2 Unit" },
@@ -1113,9 +1160,13 @@ export const roomsData = {
     roomNumber: "R03-03-08",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/uksputra/ ",
+        alt: "Bagian Depan UKS Putra",
+      },
+      {
+        src: "/images/rooms/uksputra/ ",
+        alt: "Bagian Belakang UKS Putra",
+      },
     ],
     assets: [
       { icon: "/icons/teacherDesk.svg", name: "Meja", count: "1 Unit" },
@@ -1308,9 +1359,13 @@ export const roomsData = {
     roomNumber: "R03-04-03",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/gudang/ ",
+        alt: "Bagian Depan Gudang",
+      },
+      {
+        src: "/images/rooms/gudang/ ",
+        alt: "Bagian Belakang Gudang",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja", count: "2 unit" },
@@ -1342,9 +1397,13 @@ export const roomsData = {
     roomNumber: "R03-04-04",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/ruangart/ ",
+        alt: "Bagian Depan Ruang Art",
+      },
+      {
+        src: "/images/rooms/ruangart/ ",
+        alt: "Bagian Belakang Ruang Art",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja Siswa", count: "41 Unit" },
@@ -1405,9 +1464,13 @@ export const roomsData = {
     roomNumber: "R03-04-05",
     images: [
       {
-        src: "",
-        alt: ""
-      }
+        src: "/images/rooms/marketplace/ ",
+        alt: "Bagian Depan Marketplace",
+      },
+      {
+        src: "/images/rooms/marketplace/ ",
+        alt: "Bagian Belakang Marketplace",
+      },
     ],
     assets: [
       { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
