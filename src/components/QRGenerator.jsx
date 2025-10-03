@@ -6,7 +6,7 @@ const QRGenerator = () => {
   const [qrCodes, setQrCodes] = useState({});
   const [loading, setLoading] = useState(true);
   
-  const baseUrl = 'http://192.168.1.4/qr-app/'; // Ganti dengan domain Anda
+  const baseUrl = 'http://192.168.1.4/qr-app'; // Ganti dengan domain Anda
 
   useEffect(() => {
     const generateQRCodes = async () => { 
