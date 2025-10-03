@@ -1739,14 +1739,14 @@ export const roomsData = {
 },
 
 "040103": {
-  Nama: "X - St.Bonaventura",
-  Location: "Lantai 1 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "X - St.Bonaventura",
-  Building: "SMA",
-  Floor: "1",
-  RoomNumber: "R04.01.03",
-  Images: [
+  name: "X - St.Bonaventura",
+  location: "Lantai 1 - Gedung SMA",
+  capacity: "",
+  nameClass: "X - St.Bonaventura",
+  building: "SMA",
+  floor: "1",
+  roomNumber: "R04.01.03",
+  images: [
     { src: "",
       alt: ""
     },
