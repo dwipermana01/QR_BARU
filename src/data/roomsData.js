@@ -1634,14 +1634,14 @@ export const roomsData = {
 
 // Lantai 1 //
 "040101": {
-  Nama: "Ruangan Kebersihan",
-  Location: "SMA - Lantai 1",
-  Capacity: "",
-  NamaClass: "Ruangan Kebersihan",
-  Building: "SMA",
-  Floor: "1",
-  RoomNumber: "R04.01-01",
-  Images: [
+  name: "Ruangan Kebersihan",
+  location: "SMA - Lantai 1",
+  capacity: "",
+  nameClass: "Ruangan Kebersihan",
+  building: "SMA",
+  floor: "1",
+  roomNumber: "R04.01-01",
+  images: [
     { src: "",
       alt: ""
     },
