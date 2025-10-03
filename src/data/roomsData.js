@@ -29,11 +29,11 @@ export const roomsData = {
       },
       {
         src: "/images/room_smp/tu/tu5.jpg",
-        alt: "Bagian Dapur TU"
+        alt: "Bagian Dalam TU"
       },
       {
         src: "/images/room_smp/tu/tu6.jpg",
-        alt: "Bagian Dapur TU"
+        alt: "Bagian Dalam TU"
       },
     ],
     
@@ -51,7 +51,7 @@ export const roomsData = {
       { icon: "/icons/fotocopy.svg", name: "Printer", count: "2 Unit"},
       { icon: "/icons/tv.svg", name: "TV", count: "1 Unit"},
     ],
-    mapImage: "/maps/r030101.jpg",
+    mapImage: "/maps/smp/r030101.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -112,7 +112,7 @@ export const roomsData = {
       { icon: "/icons/patung.svg", name: "Patung", count: "2 Unit"},
       { icon: "/icons/tv.svg", name: "TV", count: "1 Unit"},
     ],
-    mapImage: "/maps/r030102.jpg",
+    mapImage: "/maps/smp/r030102.jpg",
     legendItems: [
       { number: 1, name: "Pintu Kelas", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -173,7 +173,7 @@ export const roomsData = {
       { icon: "/icons/nursecall.svg", name: "Nurse Call Aiphone", count: "1 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "3 Unit"}
     ],
-    mapImage: "/maps/r030103.jpg",
+    mapImage: "/maps/smp/r030103.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -241,7 +241,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
     ],
-    mapImage: "/maps/r030104.jpg",
+    mapImage: "/maps/smp/r030104.jpg",
     legendItems: [
       { number: 1, name: "Pintu Kelas", color: "#fffff"},
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -288,7 +288,7 @@ export const roomsData = {
       { icon: "/icons/studentChair.svg", name: "Kursi", count: "1 Unit" },
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030105.jpg",
+    mapImage: "/maps/smp/r030105.jpg",
     legendItems: [
       { number: 1, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -340,7 +340,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030106.jpg", 
+    mapImage: "/maps/smp/r030106.jpg", 
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -412,7 +412,7 @@ export const roomsData = {
       { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" }
     ],
-    mapImage: "/maps/r030107.jpg",
+    mapImage: "/maps/smp/r030107.jpg",
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -482,7 +482,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
     ],
-    mapImage: "/maps/r030201.jpg",
+    mapImage: "/maps/smp/r030201.jpg",
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -558,7 +558,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit"},
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit"}
     ],
-    mapImage: "/maps/r030202.jpg",
+    mapImage: "/maps/smp/r030202.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#ffff" },
       { number: 2, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -615,7 +615,7 @@ export const roomsData = {
       { icon: "/icons/table.svg", name: "Meja", count: "1 Unit" },
       { icon: "/icons/chair-chitose.svg", name: "Kursi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030203.jpg",
+    mapImage: "/maps/smp/r030203.jpg",
     legendItems: [
       { number: 1, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
@@ -672,7 +672,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030204.jpg",
+    mapImage: "/maps/smp/r030204.jpg",
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -745,7 +745,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030205.jpg",
+    mapImage: "/maps/smp/r030205.jpg",
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -821,7 +821,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030301.jpg",
+    mapImage: "/maps/smp/r030301.jpg",
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -897,7 +897,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030302.jpg",
+    mapImage: "/maps/smp/r030302.jpg",
     legendItems: [
       { number: 1, name: "Meja Siswa", color: "#8AA3FF", textColor: "#FFFFFF" },
       { number: 2, name: "Kursi Siswa", color: "#FE0000", textColor: "#FFFFFF" },
@@ -951,7 +951,7 @@ export const roomsData = {
       { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
       { icon: "/icons/water-dispenser.svg", name: "Dispenser", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030303.jpg",
+    mapImage: "/maps/smp/r030303.jpg",
     legendItems: [
       { number: 1, name: "Meja", color: "#8AA3FF" },
       { number: 2, name: "Kursi", color: "#FE0000" },
@@ -1000,7 +1000,7 @@ export const roomsData = {
       { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "3 Unit" }
     ],
-    mapImage: "/maps/r030304.jpg",
+    mapImage: "/maps/smp/r030304.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -1054,7 +1054,7 @@ export const roomsData = {
       { icon: "/icons/fan.svg", name: "Kipas Angin", count: "1 Unit" },
       { icon: "/icons/frame.svg", name: "Bingkai", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030305.jpg",
+    mapImage: "/maps/smp/r030305.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Meja Laci", color: "#8AA3FF" },
@@ -1108,7 +1108,7 @@ export const roomsData = {
       { icon: "/icons/kulkas.svg", name: "Kulkas", count: "1 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030306.jpg",
+    mapImage: "/maps/smp/r030306.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
@@ -1171,7 +1171,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030307.jpg",
+    mapImage: "/maps/smp/r030307.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Kursi", color: "#FE0000", textColor: "#FFFFFF" },
@@ -1233,7 +1233,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030308.jpg",
+    mapImage: "/maps/smp/r030308.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Meja", color: "#8AA3FF" },
@@ -1305,7 +1305,7 @@ export const roomsData = {
       { icon: "/icons/router.svg", name: "Router", count: "1 unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi Kelas", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030401.jpg",
+    mapImage: "/maps/smp/r030401.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#ffffff" },
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#ffffff"},
@@ -1376,7 +1376,7 @@ export const roomsData = {
       { icon: "/icons/router.svg", name: "Router", count: "1 unit" },
       { icon: "/icons/airConditioner.svg", name: "AC", count: "2 unit" }
     ],
-    mapImage: "/maps/r030402.jpg",
+    mapImage: "/maps/smp/r030402.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Jam Dinding", color: "#2B9DF5", textColor: "#fffff"},
@@ -1426,7 +1426,7 @@ export const roomsData = {
       { icon: "/icons/water-dispenser.svg", name: "Dispenser", count: "1 Unit" },
       { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
     ],
-    mapImage: "/maps/r030403.jpg",
+    mapImage: "/maps/smp/r030403.jpg",
     legendItems: [
       { number: 1, name: "Meja", color: "#8AA3FF" },
       { number: 2, name: "Kursi", color: "#FE0000" },
@@ -1489,7 +1489,7 @@ export const roomsData = {
       { icon: "/icons/stopcontact.svg", name: "Stopcontact", count: "3 Unit" },
       { icon: "/icons/easel.svg", name: "Standing Wooden Easel", count: "35 Unit" }
     ],
-    mapImage: "/maps/r030404.jpg",
+    mapImage: "/maps/smp/r030404.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#fffff" },
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#FFFFFF" },
@@ -1559,7 +1559,7 @@ export const roomsData = {
       { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/maps/r030405.jpg",
+    mapImage: "/maps/smp/r030405.jpg",
     legendItems: [
       { number: 1, name: "Pintu Masuk", color: "#ffffff" },
       { number: 2, name: "Meja", color: "#8AA3FF", textColor: "#ffffff"},
@@ -1628,6 +1628,52 @@ export const roomsData = {
       { number: "", name: "", color: "" }
     ]
   },
+
+
+// Gedung SMA Lantai 1-4 //
+
+"040101": {
+  Nama: "",
+  Location: "",
+  Capacity: "",
+  NamaClass: "",
+  Building: "",
+  Floor: "",
+  RoomNumber: "",
+  Images: [
+    { src: "",
+      alt: ""
+    },
+  ],
+  assets: [
+    { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+  ],
+  mapImage: "",
+  legendItems: [
+    { number: "", name: "", color: "" }
+  ]
+},
+
   
   // Contoh kelas dengan gambar dari URL eksternal
   "tk-a": {
