@@ -1634,13 +1634,13 @@ export const roomsData = {
 
 // Lantai 1 //
 "040101": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruangan Kebersihan",
+  Location: "SMA - Lantai 1",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruangan Kebersihan",
+  Building: "SMA",
+  Floor: "1",
+  RoomNumber: "R04.01-01",
   Images: [
     { src: "",
       alt: ""
@@ -1671,19 +1671,19 @@ export const roomsData = {
   ],
   mapImage: "/maps/sma/",
   legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
+    { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
+    { number: 1, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
   ]
 },
 
 "040102": {
-  Nama: "",
-  Location: "",
+  Nama: "X - St.Klara",
+  Location: "SMA - Lantai 1",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "St.Klara",
+  Building: "SMA",
+  Floor: "1",
+  RoomNumber: "04.01-02",
   Images: [
     { src: "",
       alt: ""
@@ -1714,19 +1714,38 @@ export const roomsData = {
   ],
   mapImage: "/maps/sma/",
   legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
+    { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
+    { number: 2, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
+    { number: 3, name: "Meja Guru", color: "#fbdb93"},
+    { number: 4, name: "Kursi Guru", color: "#ffc000", textColor: "#ffffff"},
+    { number: 5, name: "Speaker", color: "#0c0950", textColor: "#FFFFFF" },
+    { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
+    { number: 7, name: "Proyektor", color: "#FF7878", textColor: "#FFFFFF" },
+    { number: 8, name: "Layar Proyektor", color: "#FED2E3" },
+    { number: 9, name: "Papan Tulis", color: "#641B2E", textColor: "#FFFFFF" }, 
+    { number: 10, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+    { number: 12, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
+    { number: 13, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
+    { number: 14, name: "Lambang Garuda", color: "#B55E55", textColor: "#FFFFFF" },
+    { number: 15, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#FFFFFF" },
+    { number: 16, name: "Papan Data Informasi", color: "#FF9188", textColor: "#FFFFFF" },
+    { number: 17, name: "Papan Tulis Hijau", color: "#00AF50", textColor: "#FFFFFF" },
+    { number: 18, name: "Router", color: "#F4F4F4" },
+    { number: 19, name: "Pintu Masuk", color: "#FFFFFF" },
+    { number: 20, name: "Jendela", color: "#FFFFFF" },
+    { number: 21, name: "Hexos", color: "#ffffff"},
+    { number: 22, name: "Bingkai", color: "#261fb3"}
   ]
 },
 
 "040103": {
-  Nama: "",
-  Location: "",
+  Nama: "X - St.Bonaventura",
+  Location: "Lantai 1 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "X - St.Bonaventura",
+  Building: "SMA",
+  Floor: "1",
+  RoomNumber: "R04.01.03",
   Images: [
     { src: "",
       alt: ""
@@ -1763,13 +1782,13 @@ export const roomsData = {
 },
 
 "040104": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruangan TU",
+  Location: "Lantai 1 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang TU",
+  Building: "SMA",
+  Floor: "1",
+  RoomNumber: "R04.01.04",
   Images: [
     { src: "",
       alt: ""
@@ -1806,13 +1825,13 @@ export const roomsData = {
 },
 
 "040105": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Tamu",
+  Location: "SMA - Lantai 1",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Tamu",
+  Building: "SMA",
+  Floor: "1",
+  RoomNumber: "R04.01-05",
   Images: [
     { src: "",
       alt: ""
@@ -1850,13 +1869,13 @@ export const roomsData = {
 
 // Lantai 2 //
 "040201": {
-  Nama: "",
-  Location: "",
+  Nama: "XI - St.Felix",
+  Location: "Lantai 2 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "XI - St.Felix",
+  Building: "SMA",
+  Floor: "2",
+  RoomNumber: "R04.02.01",
   Images: [
     { src: "",
       alt: ""
@@ -1893,13 +1912,13 @@ export const roomsData = {
 },
 
 "040202": {
-  Nama: "",
-  Location: "",
+  Nama: "XI - St.Bernadius",
+  Location: "Lantai 2 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "XI - St.Bernadius",
+  Building: "SMA",
+  Floor: "2",
+  RoomNumber: "R04.02.02",
   Images: [
     { src: "",
       alt: ""
@@ -1936,13 +1955,13 @@ export const roomsData = {
 },
 
 "040203": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Kebersihan",
+  Location: "Lantai 2 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Kebersihan",
+  Building: "SMA",
+  Floor: "2",
+  RoomNumber: "R04.02.03",
   Images: [
     { src: "",
       alt: ""
@@ -1979,13 +1998,13 @@ export const roomsData = {
 },
 
 "040204": {
-  Nama: "",
-  Location: "",
+  Nama: "XI - St.Elizabeth",
+  Location: "Lantai 2 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "XI - St.Elizabeth",
+  Building: "SMA",
+  Floor: "2",
+  RoomNumber: "R04.02.04",
   Images: [
     { src: "",
       alt: ""
@@ -2022,13 +2041,13 @@ export const roomsData = {
 },
 
 "040205": {
-  Nama: "",
-  Location: "",
+  Nama: "XI - St.Antonius",
+  Location: "Lantai 2 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "XI - St.Antonius",
+  Building: "SMA",
+  Floor: "2",
+  RoomNumber: "R04.02.05",
   Images: [
     { src: "",
       alt: ""
@@ -2066,13 +2085,13 @@ export const roomsData = {
 
 // Lantai 3 //
 "040301": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang BK",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang BK",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.01",
   Images: [
     { src: "",
       alt: ""
@@ -2109,13 +2128,13 @@ export const roomsData = {
 },
 
 "040302": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Tamu",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Tamu",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.02",
   Images: [
     { src: "",
       alt: ""
@@ -2152,13 +2171,13 @@ export const roomsData = {
 },
 
 "040303": {
-  Nama: "",
-  Location: "",
+  Nama: "Pentry",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Pentry",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.03",
   Images: [
     { src: "",
       alt: ""
@@ -2195,13 +2214,13 @@ export const roomsData = {
 },
 
 "040304": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Guru",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Guru",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.04",
   Images: [
     { src: "",
       alt: ""
@@ -2238,13 +2257,13 @@ export const roomsData = {
 },
 
 "040305": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Kepala Sekolah",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Kepala Sekolah",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.05",
   Images: [
     { src: "",
       alt: ""
@@ -2281,13 +2300,13 @@ export const roomsData = {
 },
 
 "040306": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Konseling",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Kebersihan",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.06",
   Images: [
     { src: "",
       alt: ""
@@ -2324,13 +2343,13 @@ export const roomsData = {
 },
 
 "040307": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Kebersihan",
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "XII - Padre Pio",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.07",
   Images: [
     { src: "",
       alt: ""
@@ -2367,13 +2386,56 @@ export const roomsData = {
 },
 
 "040308": {
-  Nama: "",
-  Location: "",
+  Nama: "XII - Padre Pio", 
+  Location: "Lantai 3 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "xii - St.Agnes",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.08",
+  Images: [
+    { src: "",
+      alt: ""
+    },
+  ],
+  assets: [
+    { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
+      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
+      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
+      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
+      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
+      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
+      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
+      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
+      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
+      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
+      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
+      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
+      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
+      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
+      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
+      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
+      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
+      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
+      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
+      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
+  ],
+  mapImage: "/maps/sma/",
+  legendItems: [
+    { number: "", name: "", color: "" },
+    { number: "", name: "", color: "" },
+  ]
+},
+
+"040309": {
+  Nama: "XII - St.Agnes", 
+  Location: "Lantai 3 - Gedung SMA",
+  Capacity: "",
+  NamaClass: "XII - Padre Pio",
+  Building: "SMA",
+  Floor: "3",
+  RoomNumber: "R04.03.07",
   Images: [
     { src: "",
       alt: ""
@@ -2411,13 +2473,13 @@ export const roomsData = {
 
 // Lantai 4 //
 "040401": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Musik - St.Fransiskus de Sales",
+  Location: "Lantai 4 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Musik - St.Fransiskus de Sales",
+  Building: "SMA",
+  Floor: "4",
+  RoomNumber: "R04.04.01",
   Images: [
     { src: "",
       alt: ""
@@ -2454,13 +2516,13 @@ export const roomsData = {
 },
 
 "040402": {
-  Nama: "",
-  Location: "",
+  Nama: "Beata Maria de La Passion",
+  Location: "Lantai 4 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Beata Maria de La Passion",
+  Building: "SMA",
+  Floor: "4",
+  RoomNumber: "R04.04.02",
   Images: [
     { src: "",
       alt: ""
@@ -2497,56 +2559,13 @@ export const roomsData = {
 },
 
 "040403": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Kebersihan",
+  Location: "Lantai 4 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
-      { icon: "/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
-      { icon: "/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
-      { icon: "/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
-      { icon: "/icons/speaker.svg", name: "Speaker", count: "2 unit" },
-      { icon: "/icons/airConditioner.svg", name: "Air Conditioner", count: "2 unit" },
-      { icon: "/icons/projector.svg", name: "Proyektor", count: "1 unit" },
-      { icon: "/icons/projectorScreen.svg", name: "Screen Proyektor", count: "1 unit" },
-      { icon: "/icons/whiteboardFrame.svg", name: "Papan Tulis", count: "2 Unit" },
-      { icon: "/icons/cctv.svg", name: "CCTV", count: "1 Unit" },
-      { icon: "/icons/ipCamera.svg", name: "IP Camera", count: "1 Unit" },
-      { icon: "/icons/lockers.svg", name: "Loker", count: "2 Unit" },
-      { icon: "/icons/clock.svg", name: "Jam Dinding", count: "1 Unit" },
-      { icon: "/icons/trash.svg", name: "Tempat Sampah", count: "1 Unit" },
-      { icon: "/icons/cabinet.svg", name: "Lemari", count: "2 Unit" },
-      { icon: "/icons/curtain.svg", name: "Gorden", count: "7 Unit" },
-      { icon: "/icons/cross.svg", name: "Salib", count: "1 Unit" },
-      { icon: "/icons/flag.svg", name: "Bendera", count: "1 Set" },
-      { icon: "/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
-      { icon: "/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
-      { icon: "/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
-
-"040403": {
-  Nama: "",
-  Location: "",
-  Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Kebersihan",
+  Building: "SMA",
+  Floor: "4",
+  RoomNumber: "R04.04.03",
   Images: [
     { src: "",
       alt: ""
@@ -2583,13 +2602,13 @@ export const roomsData = {
 },
 
 "040404": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Komputer - St.Cicilia",
+  Location: "Lantai 4 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Komputer - St.Cicilia",
+  Building: "SMA",
+  Floor: "4",
+  RoomNumber: "R04.04.04",
   Images: [
     { src: "",
       alt: ""
@@ -2626,13 +2645,13 @@ export const roomsData = {
 },
 
 "040405": {
-  Nama: "",
-  Location: "",
+  Nama: "Ruang Komputer - Beato Carlo Acutis",
+  Location: "Lantai 4 - Gedung SMA",
   Capacity: "",
-  NamaClass: "",
-  Building: "",
-  Floor: "",
-  RoomNumber: "",
+  NamaClass: "Ruang Komputer - Beato Carlo Acutis",
+  Building: "SMA",
+  Floor: "4",
+  RoomNumber: "R04.04.05",
   Images: [
     { src: "",
       alt: ""
