@@ -1077,12 +1077,20 @@ export const roomsData = {
     roomNumber: "R03-03-06",
     images: [
       {
-        src: "/images/rooms/pentry/ ",
+        src: "/images/rooms/pentry/pentry1.jpeg",
         alt: "Bagian Depan Pentry",
       },
       {
-        src: "/images/rooms/pentry/ ",
-        alt: "Bagian Belakang Pentry",
+        src: "/images/rooms/pentry/pentry2.jpeg",
+        alt: "Bagian Dalam Pentry",
+      },
+      {
+        src: "/images/rooms/pentry/pentry3.jpeg",
+        alt: "Bagian Dalam Pentry",
+      },
+      {
+        src: "/images/rooms/pentry/pentry4.jpeg",
+        alt: "Bagian Dalam Pentry",
       },
     ],
     assets: [
