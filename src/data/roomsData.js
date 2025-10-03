@@ -12,27 +12,27 @@ export const roomsData = {
     
     images: [
       {
-        src: "/images/rooms/tu/tu1.jpg",
+        src: "/images/room_smp/tu/tu1.jpg",
         alt: "Bagian Depan TU"
       },
       {
-        src: "/images/rooms/tu/tu2.jpg",
+        src: "/images/room_smp/tu/tu2.jpg",
         alt: "Bagian Tengah TU"
       },
       {
-        src: "/images/rooms/tu/tu3.jpg",
+        src: "/images/room_smp/tu/tu3.jpg",
         alt: "Bagian Pintu TU"
       },
       {
-        src: "/images/rooms/tu/tu4.jpg",
+        src: "/images/room_smp/tu/tu4.jpg",
         alt: "Bagian Tengah TU"
       },
       {
-        src: "/images/rooms/tu/tu5.jpg",
+        src: "/images/room_smp/tu/tu5.jpg",
         alt: "Bagian Dapur TU"
       },
       {
-        src: "/images/rooms/tu/tu6.jpg",
+        src: "/images/room_smp/tu/tu6.jpg",
         alt: "Bagian Dapur TU"
       },
     ],
@@ -78,19 +78,19 @@ export const roomsData = {
     roomNumber: "R03-01-02",
     images: [
       {
-        src: "/images/rooms/ruangkepsek/ ",
+        src: "/images/room_smp/ruangkepsek/ ",
         alt: "Bagian Depan Ruangan Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangkepsek/ ",
+        src: "/images/room_smp/ruangkepsek/ ",
         alt: "Bagian Depan Ruangan Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangkepsek/",
+        src: "/images/room_smp/ruangkepsek/",
         alt: "Bagian Belakang Ruangan Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangkepsek/ ",
+        src: "/images/room_smp/ruangkepsek/ ",
         alt: "Bagian Belakang Ruangan Kepala Sekolah",
       },
     ],
@@ -139,19 +139,19 @@ export const roomsData = {
     roomNumber: "R03-01-02",
     images: [
       {
-        src: "/images/rooms/ruangmeeting/meeting1.jpeg",
+        src: "/images/room_smp/ruangmeeting/meeting1.jpeg",
         alt: "Tampak Depan TV",
       },
       {
-        src: "/images/rooms/ruangmeeting/meeting2.jpeg", 
+        src: "/images/room_smp/ruangmeeting/meeting2.jpeg", 
         alt: "Tampak Depan",
       },
       {
-        src: "/images/rooms/ruangmeeting/meeting4.jpeg",
+        src: "/images/room_smp/ruangmeeting/meeting4.jpeg",
         alt: "Tampak Dalam 1",
       },
       {
-        src: "/images/rooms/ruangmeeting/meeting5.jpeg",
+        src: "/images/room_smp/ruangmeeting/meeting5.jpeg",
         alt: "Tampak Dalam 2",
       },
     ],
@@ -202,19 +202,19 @@ export const roomsData = {
     roomNumber: "R03-01-04",
     images: [
       {
-        src: "/images/rooms/ruangwakasek/wakasek1.jpg",
+        src: "/images/room_smp/ruangwakasek/wakasek1.jpg",
         alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangwakasek/wakasek2.jpg",
+        src: "/images/room_smp/ruangwakasek/wakasek2.jpg",
         alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangwakasek/wakasek3.jpg",
+        src: "/images/room_smp/ruangwakasek/wakasek3.jpg",
         alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
       {
-        src: "/images/rooms/ruangwakasek/wakasek4.jpg",
+        src: "/images/room_smp/ruangwakasek/wakasek4.jpg",
         alt: "Bagian Dalam Wakil Kepala Sekolah",
       },
     ],
@@ -267,19 +267,19 @@ export const roomsData = {
     roomNumber: "R03-01-05",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.1.jpg",
+        src: "/images/room_smp/ruangkebersihanlt1/kebersihan1.1.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.2.jpg",
+        src: "/images/room_smp/ruangkebersihanlt1/kebersihan1.2.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.3.jpg",
+        src: "/images/room_smp/ruangkebersihanlt1/kebersihan1.3.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt1/kebersihan1.4.jpg",
+        src: "/images/room_smp/ruangkebersihanlt1/kebersihan1.4.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
@@ -307,15 +307,15 @@ export const roomsData = {
     roomNumber: "R03-01-06",
     images: [
       {
-        src: "/images/rooms/VIIB/viib1.jpeg",
+        src: "/images/room_smp/VIIB/viib1.jpeg",
         alt: "Bagian Depan Kelas VII B"
       },
       {
-        src: "/images/rooms/VIIB/viib2.jpeg",
+        src: "/images/room_smp/VIIB/viib2.jpeg",
         alt: "Bagian Samping dan Belakang Kelas VII B"
       },
       {
-        src: "/images/rooms/VIIB/viib3.jpeg",
+        src: "/images/room_smp/VIIB/viib3.jpeg",
         alt: "Bagian Samping dan Belakang Kelas VII B"
       },
     ],
@@ -377,19 +377,19 @@ export const roomsData = {
     roomNumber: "R03-01-07",
     images: [
       {
-        src: "/images/rooms/VIIA/viia1.jpg",
+        src: "/images/room_smp/VIIA/viia1.jpg",
         alt: "Bagian Depan dan Samping Kelas VII A"
       },
       {
-        src: "/images/rooms/VIIA/viia4.jpg",
+        src: "/images/room_smp/VIIA/viia4.jpg",
         alt: "Bagian Depan dan Samping Kelas VII A"
       },
       {
-        src: "/images/rooms/VIIA/viia2.jpg",
+        src: "/images/room_smp/VIIA/viia2.jpg",
         alt: "Bagian Belakang dan Samping Kelas VII A"
       },
       {
-        src: "/images/rooms/VIIA/viia3.jpg",
+        src: "/images/room_smp/VIIA/viia3.jpg",
         alt: "Bagian Belakang dan Samping Kelas VII A"
       },
     ],
@@ -450,15 +450,15 @@ export const roomsData = {
     roomNumber: "R03-02-01",
     images: [
       {
-        src: "/images/rooms/VIIIC/viiic2.jpg", 
+        src: "/images/room_smp/VIIIC/viiic2.jpg", 
         alt: "Bagian Depan Kelas VIII C"
       },
       {
-        src: "/images/rooms/VIIIC/viiic3.jpg",
+        src: "/images/room_smp/VIIIC/viiic3.jpg",
         alt: "Bagian Depan Kelas VIII C"
       },
       {
-        src: "/images/rooms/VIIIC/viiic1.jpg",
+        src: "/images/room_smp/VIIIC/viiic1.jpg",
         alt: "Bagian Belakang Kelas VIII C"
       },
     ],
@@ -518,19 +518,19 @@ export const roomsData = {
     roomNumber: "R03-02-02",
     images: [
       {
-        src: "/images/rooms/ruangserbaguna/serbaguna1.jpg",
+        src: "/images/room_smp/ruangserbaguna/serbaguna1.jpg",
         alt: "Bagian Depan Ruang Serbaguna"
       },
       {
-        src: "/images/rooms/ruangserbaguna/serbaguna2.jpg",
+        src: "/images/room_smp/ruangserbaguna/serbaguna2.jpg",
         alt: "Bagian Depan Ruang Serbaguna"
       },
       {
-        src: "/images/rooms/ruangserbaguna/serbaguna3.jpg",
+        src: "/images/room_smp/ruangserbaguna/serbaguna3.jpg",
         alt: "Bagian Belakang Ruang Serbaguna"
       },
       {
-        src: "/images/rooms/ruangserbaguna/serbaguna4.jpg",
+        src: "/images/room_smp/ruangserbaguna/serbaguna4.jpg",
         alt: "Bagian Belakang Ruang Serbaguna"
       },
     ],
@@ -597,15 +597,15 @@ export const roomsData = {
     roomNumber: "R03-02-03",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt2/kebersihan2.1.jpg",
+        src: "/images/room_smp/ruangkebersihanlt2/kebersihan2.1.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt2/kebersihan2.2.jpg",
+        src: "/images/room_smp/ruangkebersihanlt2/kebersihan2.2.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt2/kebersihan2.3.jpg",
+        src: "/images/room_smp/ruangkebersihanlt2/kebersihan2.3.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
@@ -636,19 +636,19 @@ export const roomsData = {
     roomNumber: "R03-02-04",
     images: [
       {
-        src: "/images/rooms/VIIIB/viiib4.jpg",
+        src: "/images/room_smp/VIIIB/viiib4.jpg",
         alt: "Bagian Depan Kelas VIII B"
       },
       {
-        src: "/images/rooms/VIIIB/viiib3.jpg",
+        src: "/images/room_smp/VIIIB/viiib3.jpg",
         alt: "Bagian Depan Kelas VIII B"
       },
       {
-        src: "/images/rooms/VIIIB/viiib2.jpg",
+        src: "/images/room_smp/VIIIB/viiib2.jpg",
         alt: "Bagian Belakang Kelas VIII B"
       },
       {
-        src: "/images/rooms/VIIIB/viiib1.jpg",
+        src: "/images/room_smp/VIIIB/viiib1.jpg",
         alt: "Bagian Belakang Kelas VIII B"
       },
     ],
@@ -708,19 +708,19 @@ export const roomsData = {
     roomNumber: "R03-02-05",
     images: [
       {
-        src: "/images/rooms/VIIIA/viiia3.jpg",
+        src: "/images/room_smp/VIIIA/viiia3.jpg",
         alt: "Bagian Depan Kelas VIII A"
       },
       {
-        src: "/images/rooms/VIIIA/viiia4.jpg",
+        src: "/images/room_smp/VIIIA/viiia4.jpg",
         alt: "Bagian Depan Kelas VIII A"
       },
       {
-        src: "/images/rooms/VIIIA/viiia1.jpg",
+        src: "/images/room_smp/VIIIA/viiia1.jpg",
         alt: "Bagian Belakang Kelas VIII A"
       },
       {
-        src: "/images/rooms/VIIIA/viiia2.jpg",
+        src: "/images/room_smp/VIIIA/viiia2.jpg",
         alt: "Bagian Belakang Kelas VIII A"
       },
     ],
@@ -783,19 +783,19 @@ export const roomsData = {
     roomNumber: "R03-03-01",
     images: [
       {
-        src: "/images/rooms/IXB/ixb3.jpg",
+        src: "/images/room_smp/IXB/ixb3.jpg",
         alt: "Bagian Depan Kelas XI B"
       },
       {
-        src: "/images/rooms/IXB/ixb4.jpg",
+        src: "/images/room_smp/IXB/ixb4.jpg",
         alt: "Bagian Depan Kelas XI B"
       },
       {
-        src: "/images/rooms/IXB/ixb1.jpg",
+        src: "/images/room_smp/IXB/ixb1.jpg",
         alt: "Bagian Belakang Kelas XI B"
       },
       {
-        src: "/images/rooms/IXB/ixb2.jpg",
+        src: "/images/room_smp/IXB/ixb2.jpg",
         alt: "Bagian Belakang Kelas XI B"
       },
     ],
@@ -857,19 +857,19 @@ export const roomsData = {
     roomNumber: "R03-03-02",
     images: [
       {
-        src: "/images/rooms/IXA/ixa3.jpg",
+        src: "/images/room_smp/IXA/ixa3.jpg",
         alt: "Bagian Depan Kelas XI A"
       },
       {
-        src: "/images/rooms/IXA/ixa4.jpg",
+        src: "/images/room_smp/IXA/ixa4.jpg",
         alt: "Bagian Depan Kelas XI A"
       },
       {
-        src: "/images/rooms/IXA/ixa1.jpg",
+        src: "/images/room_smp/IXA/ixa1.jpg",
         alt: "Bagian Belakang Kelas XI A"
       },
       {
-        src: "/images/rooms/IXA/ixa2.jpg",
+        src: "/images/room_smp/IXA/ixa2.jpg",
         alt: "Bagian Belakang Kelas XI A"
       },
     ],
@@ -933,15 +933,15 @@ export const roomsData = {
     roomNumber: "R03-03-03",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt3/kebersihan3.1.jpg",
+        src: "/images/room_smp/ruangkebersihanlt3/kebersihan3.1.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt3/kebersihan3.2.jpg",
+        src: "/images/room_smp/ruangkebersihanlt3/kebersihan3.2.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt3/kebersihan3.3.jpg",
+        src: "/images/room_smp/ruangkebersihanlt3/kebersihan3.3.jpg",
         alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
@@ -971,19 +971,19 @@ export const roomsData = {
     roomNumber: "R03-03-04",
     images: [
       {
-        src: "/images/rooms/ruangbk/bk1.jpg",
+        src: "/images/room_smp/ruangbk/bk1.jpg",
         alt: "Bagian Dalam Ruang BK",
       },
       {
-        src: "/images/rooms/ruangbk/bk2.jpg",
+        src: "/images/room_smp/ruangbk/bk2.jpg",
         alt: "Bagian Dalam Ruang BK",
       },
       {
-        src: "/images/rooms/ruangbk/bk3.jpg",
+        src: "/images/room_smp/ruangbk/bk3.jpg",
         alt: "Bagian Dalam Ruang BK",
       },
       {
-        src: "/images/rooms/ruangbk/bk4.jpg",
+        src: "/images/room_smp/ruangbk/bk4.jpg",
         alt: "Bagian Dalam Ruang BK",
       },
     ],
@@ -1024,19 +1024,19 @@ export const roomsData = {
     roomNumber: "R03-03-05",
     images: [
       {
-        src: "/images/rooms/uksputri/uksputri2.jpg",
+        src: "/images/room_smp/uksputri/uksputri2.jpg",
         alt: "Bagian Dalam UKS Putri",
       },
       {
-        src: "/images/rooms/uksputri/uksputri1.jpg",
+        src: "/images/room_smp/uksputri/uksputri1.jpg",
         alt: "Bagian Dalam UKS Putri",
       },
       {
-        src: "/images/rooms/uksputri/uksputri3.jpg",
+        src: "/images/room_smp/uksputri/uksputri3.jpg",
         alt: "Bagian Dalam UKS Putri",
       },
       {
-        src: "/images/rooms/uksputri/uksputri4.jpg",
+        src: "/images/room_smp/uksputri/uksputri4.jpg",
         alt: "Bagian Dalam UKS Putri",
       },
     ],
@@ -1077,19 +1077,19 @@ export const roomsData = {
     roomNumber: "R03-03-06",
     images: [
       {
-        src: "/images/rooms/pentry/pentry1.jpeg",
+        src: "/images/room_smp/pentry/pentry1.jpeg",
         alt: "Bagian Depan Pentry",
       },
       {
-        src: "/images/rooms/pentry/pentry2.jpeg",
+        src: "/images/room_smp/pentry/pentry2.jpeg",
         alt: "Bagian Dalam Pentry",
       },
       {
-        src: "/images/rooms/pentry/pentry3.jpeg",
+        src: "/images/room_smp/pentry/pentry3.jpeg",
         alt: "Bagian Dalam Pentry",
       },
       {
-        src: "/images/rooms/pentry/pentry4.jpeg",
+        src: "/images/room_smp/pentry/pentry4.jpeg",
         alt: "Bagian Dalam Pentry",
       },
     ],
@@ -1135,19 +1135,19 @@ export const roomsData = {
     roomNumber: "R03-03-07",
     images: [
       {
-        src: "/images/rooms/ruangguru/ruangguru1.png", 
+        src: "/images/room_smp/ruangguru/ruangguru1.png", 
         alt: "Bagian Depan Ruang Guru"
       },
       {
-        src: "/images/rooms/ruangguru/ruangguru2.png", 
+        src: "/images/room_smp/ruangguru/ruangguru2.png", 
         alt: "Bagian Depan Ruang Guru"
       },
       {
-        src: "/images/rooms/ruangguru/ruangguru3.png", 
+        src: "/images/room_smp/ruangguru/ruangguru3.png", 
         alt: "Bagian Belakang Ruang Guru"
       },
       {
-        src: "/images/rooms/ruangguru/ruangguru4.png", 
+        src: "/images/room_smp/ruangguru/ruangguru4.png", 
         alt: "Bagian Belakang Ruang Guru"
       },
     ],
@@ -1203,19 +1203,19 @@ export const roomsData = {
     roomNumber: "R03-03-08",
     images: [
       {
-        src: "/images/rooms/uksputra/uksputra1.jpg",
+        src: "/images/room_smp/uksputra/uksputra1.jpg",
         alt: "Bagian Dalam UKS Putra",
       },
       {
-        src: "/images/rooms/uksputra/uksputra2.jpg",
+        src: "/images/room_smp/uksputra/uksputra2.jpg",
         alt: "Bagian Dalam UKS Putra",
       },
       {
-        src: "/images/rooms/uksputra/uksputra3.jpg",
+        src: "/images/room_smp/uksputra/uksputra3.jpg",
         alt: "Bagian Dalam UKS Putra",
       },
       {
-        src: "/images/rooms/uksputra/uksputra4.jpg",
+        src: "/images/room_smp/uksputra/uksputra4.jpg",
         alt: "Bagian Dalam UKS Putra",
       },
     ],
@@ -1262,23 +1262,23 @@ export const roomsData = {
     roomNumber: "R03-04-01",
     images: [
       {
-        src: "/images/rooms/makerspace/maker1.jpg",
+        src: "/images/room_smp/makerspace/maker1.jpg",
         alt: "Bagian Depan Ruang Maker Space"
       },
       {
-        src: "/images/rooms/makerspace/maker2.jpg",
+        src: "/images/room_smp/makerspace/maker2.jpg",
         alt: "Bagian Depan Ruang Maker Space"
       },
       {
-        src: "/images/rooms/makerspace/maker3.jpg",
+        src: "/images/room_smp/makerspace/maker3.jpg",
         alt: "Bagian Belakang Ruang Maker Space"
       },
       {
-        src: "/images/rooms/makerspace/maker4.jpg",
+        src: "/images/room_smp/makerspace/maker4.jpg",
         alt: "Bagian Belakang Ruang Maker Space"
       },
       {
-        src: "/images/rooms/makerspace/maker5.jpg",
+        src: "/images/room_smp/makerspace/maker5.jpg",
         alt: "Bagian Belakang Ruang Maker Space"
       },
     ],
@@ -1340,19 +1340,19 @@ export const roomsData = {
     roomNumber: "R03-04-02",
     images: [
       {
-        src: "/images/rooms/labkomputer/labkom-view1.jpg",
+        src: "/images/room_smp/labkomputer/labkom-view1.jpg",
         alt: "Tampak Depan Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view2.jpg",
+        src: "/images/room_smp/labkomputer/labkom-view2.jpg",
         alt: "Tampak Samping Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view3.jpg",
+        src: "/images/room_smp/labkomputer/labkom-view3.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       },
        {
-        src: "/images/rooms/labkomputer/labkom-view4.jpg",
+        src: "/images/room_smp/labkomputer/labkom-view4.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       }
     ],
@@ -1411,11 +1411,11 @@ export const roomsData = {
     roomNumber: "R03-04-03",
     images: [
       {
-        src: "/images/rooms/ruangkebersihanlt4/ ",
+        src: "/images/room_smp/ruangkebersihanlt4/ ",
         alt: "Bagian Depan Gudang",
       },
       {
-        src: "/images/rooms/ruangkebersihanlt4/ ",
+        src: "/images/room_smp/ruangkebersihanlt4/ ",
         alt: "Bagian Belakang Gudang",
       },
     ],
@@ -1449,19 +1449,19 @@ export const roomsData = {
     roomNumber: "R03-04-04",
     images: [
       {
-        src: "/images/rooms/ruangart/art1.jpg",
+        src: "/images/room_smp/ruangart/art1.jpg",
         alt: "Bagian Depan Ruang Art",
       },
       {
-        src: "/images/rooms/ruangart/art2.jpg",
+        src: "/images/room_smp/ruangart/art2.jpg",
         alt: "Bagian Depan Ruang Art",
       },
       {
-        src: "/images/rooms/ruangart/art3.jpg",
+        src: "/images/room_smp/ruangart/art3.jpg",
         alt: "Bagian Belakang Ruang Art",
       },
       {
-        src: "/images/rooms/ruangart/art4.jpg",
+        src: "/images/room_smp/ruangart/art4.jpg",
         alt: "Bagian Belakang Ruang Art",
       },
     ],
@@ -1524,15 +1524,15 @@ export const roomsData = {
     roomNumber: "R03-04-05",
     images: [
       {
-        src: "/images/rooms/marketplace/marketplace1.jpg",
+        src: "/images/room_smp/marketplace/marketplace1.jpg",
         alt: "Bagian Depan Marketplace",
       },
       {
-        src: "/images/rooms/marketplace/marketplace2.jpg",
+        src: "/images/room_smp/marketplace/marketplace2.jpg",
         alt: "Bagian Belakang Marketplace",
       },
       {
-        src: "/images/rooms/marketplace/marketplace3.jpg",
+        src: "/images/room_smp/marketplace/marketplace3.jpg",
         alt: "Bagian Belakang Marketplace",
       },
     ],
