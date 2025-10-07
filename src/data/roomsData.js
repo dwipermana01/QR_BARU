@@ -1408,12 +1408,16 @@ export const roomsData = {
     roomNumber: "R03-04-03",
     images: [
       {
-        src: "/qr-app/images/room_smp/ruangkebersihanlt4/ ",
-        alt: "Bagian Depan Gudang",
+        src: "/qr-app/images/room_smp/ruangkebersihanlt4/kebersihan4.1",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
       {
-        src: "/qr-app/images/room_smp/ruangkebersihanlt4/ ",
-        alt: "Bagian Belakang Gudang",
+        src: "/qr-app/images/room_smp/ruangkebersihanlt4/kebersihan4.2",
+        alt: "Bagian Dalam Ruang Kebersihan",
+      },
+      {
+        src: "/qr-app/images/room_smp/ruangkebersihanlt4/kebersihan4.3",
+        alt: "Bagian Dalam Ruang Kebersihan",
       },
     ],
     assets: [
