@@ -1675,10 +1675,10 @@ export const roomsData = {
   },
 
   "040102": {
-    nama: "X - St.Klara",
+    name: "X - St.Klara",
     location: "SMA - Lantai 1",
     capacity: "",
-    namaClass: "St.Klara",
+    nameClass: "St.Klara",
     building: "SMA",
     floor: "1",
     roomNumber: "04.01-02",
