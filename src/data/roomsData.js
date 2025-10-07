@@ -771,8 +771,6 @@ export const roomsData = {
     ]
   },
 
-
-  
   "030301": {
     name: "Kelas XI B",
     location: "Lantai 3 - Gedung SMP",
@@ -923,7 +921,7 @@ export const roomsData = {
     ]
   },
 
-   "030303": {
+  "030303": {
     name: "Ruang Kebersihan",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
@@ -961,7 +959,7 @@ export const roomsData = {
     ]
   },
 
-   "030304": {
+  "030304": {
     name: "Ruang BK",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
@@ -1014,7 +1012,7 @@ export const roomsData = {
     ]
   },
 
-   "030305": {
+  "030305": {
     name: "UKS Putri",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
@@ -1067,7 +1065,7 @@ export const roomsData = {
     ]
   },
 
-   "030306": {
+  "030306": {
     name: "Pentry",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
@@ -1125,7 +1123,7 @@ export const roomsData = {
     ]
   },
 
-   "030307": {
+  "030307": {
     name: "Ruang Guru",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
@@ -1633,21 +1631,21 @@ export const roomsData = {
 // GEDUNG SMA LANTAI 1-4 //
 
 // Lantai 1 //
-"040101": {
-  name: "Ruangan Kebersihan",
-  location: "SMA - Lantai 1",
-  capacity: "",
-  nameClass: "Ruangan Kebersihan",
-  building: "SMA",
-  floor: "1",
-  roomNumber: "R04.01-01",
-  images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040101": {
+    name: "Ruangan Kebersihan",
+    location: "SMA - Lantai 1",
+    capacity: "",
+    nameClass: "Ruangan Kebersihan",
+    building: "SMA",
+    floor: "1",
+    roomNumber: "R04.01-01",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1668,29 +1666,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
-    { number: 1, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
+      { number: 1, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
+    ]
+  },
 
-"040102": {
-  nama: "X - St.Klara",
-  location: "SMA - Lantai 1",
-  capacity: "",
-  namaClass: "St.Klara",
-  building: "SMA",
-  floor: "1",
-  roomNumber: "04.01-02",
-  images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040102": {
+    nama: "X - St.Klara",
+    location: "SMA - Lantai 1",
+    capacity: "",
+    namaClass: "St.Klara",
+    building: "SMA",
+    floor: "1",
+    roomNumber: "04.01-02",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1711,48 +1709,48 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
-    { number: 2, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
-    { number: 3, name: "Meja Guru", color: "#fbdb93"},
-    { number: 4, name: "Kursi Guru", color: "#ffc000", textColor: "#ffffff"},
-    { number: 5, name: "Speaker", color: "#0c0950", textColor: "#FFFFFF" },
-    { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
-    { number: 7, name: "Proyektor", color: "#FF7878", textColor: "#FFFFFF" },
-    { number: 8, name: "Layar Proyektor", color: "#FED2E3" },
-    { number: 9, name: "Papan Tulis", color: "#641B2E", textColor: "#FFFFFF" }, 
-    { number: 10, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
-    { number: 12, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
-    { number: 13, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
-    { number: 14, name: "Lambang Garuda", color: "#B55E55", textColor: "#FFFFFF" },
-    { number: 15, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#FFFFFF" },
-    { number: 16, name: "Papan Data Informasi", color: "#FF9188", textColor: "#FFFFFF" },
-    { number: 17, name: "Papan Tulis Hijau", color: "#00AF50", textColor: "#FFFFFF" },
-    { number: 18, name: "Router", color: "#F4F4F4" },
-    { number: 19, name: "Pintu Masuk", color: "#FFFFFF" },
-    { number: 20, name: "Jendela", color: "#FFFFFF" },
-    { number: 21, name: "Hexos", color: "#ffffff"},
-    { number: 22, name: "Bingkai", color: "#261fb3"}
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [ 
+      { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
+      { number: 2, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
+      { number: 3, name: "Meja Guru", color: "#fbdb93"},
+      { number: 4, name: "Kursi Guru", color: "#ffc000", textColor: "#ffffff"},
+      { number: 5, name: "Speaker", color: "#0c0950", textColor: "#FFFFFF" },
+      { number: 6, name: "Air Conditioner", color: "#E9ECFF" },
+      { number: 7, name: "Proyektor", color: "#FF7878", textColor: "#FFFFFF" },
+      { number: 8, name: "Layar Proyektor", color: "#FED2E3" },
+      { number: 9, name: "Papan Tulis", color: "#641B2E", textColor: "#FFFFFF" }, 
+      { number: 10, name: "Jam Dinding", color: "#2B9DF5", textColor: "#FFFFFF" },
+      { number: 12, name: "Salib", color: "#827F88", textColor: "#FFFFFF" },
+      { number: 13, name: "Bendera", color: "#892D3A", textColor: "#FFFFFF" },
+      { number: 14, name: "Lambang Garuda", color: "#B55E55", textColor: "#FFFFFF" },
+      { number: 15, name: "Bingkai Presiden dan Wakil Presiden", color: "#B55E55", textColor: "#FFFFFF" },
+      { number: 16, name: "Papan Data Informasi", color: "#FF9188", textColor: "#FFFFFF" },
+      { number: 17, name: "Papan Tulis Hijau", color: "#00AF50", textColor: "#FFFFFF" },
+      { number: 18, name: "Router", color: "#F4F4F4" },
+      { number: 19, name: "Pintu Masuk", color: "#FFFFFF" },
+      { number: 20, name: "Jendela", color: "#FFFFFF" },
+      { number: 21, name: "Hexos", color: "#ffffff"},
+      { number: 22, name: "Bingkai", color: "#261fb3"}
+    ]
+  },
 
-"040103": {
-  name: "X - St.Bonaventura",
-  location: "Lantai 1 - Gedung SMA",
-  capacity: "",
-  nameClass: "X - St.Bonaventura",
-  building: "SMA",
-  floor: "1",
-  roomNumber: "R04.01.03",
-  images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040103": {
+    name: "X - St.Bonaventura",
+    location: "Lantai 1 - Gedung SMA",
+    capacity: "",
+    nameClass: "X - St.Bonaventura",
+    building: "SMA",
+    floor: "1",
+    roomNumber: "R04.01.03",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1773,29 +1771,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040104": {
-  Nama: "Ruangan TU",
-  Location: "Lantai 1 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang TU",
-  Building: "SMA",
-  Floor: "1",
-  RoomNumber: "R04.01.04",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040104": {
+    name: "Ruangan TU",
+    location: "Lantai 1 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang TU",
+    building: "SMA",
+    floor: "1",
+    roomNumber: "R04.01.04",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1816,29 +1814,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040105": {
-  Nama: "Ruang Tamu",
-  Location: "SMA - Lantai 1",
-  Capacity: "",
-  NamaClass: "Ruang Tamu",
-  Building: "SMA",
-  Floor: "1",
-  RoomNumber: "R04.01-05",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040105": {
+    name: "Ruang Tamu",
+    location: "SMA - Lantai 1",
+    capacity: "",
+    nameClass: "Ruang Tamu",
+    building: "SMA",
+    floor: "1",
+    roomNumber: "R04.01-05",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1859,30 +1857,30 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
 // Lantai 2 //
-"040201": {
-  Nama: "XI - St.Felix",
-  Location: "Lantai 2 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "XI - St.Felix",
-  Building: "SMA",
-  Floor: "2",
-  RoomNumber: "R04.02.01",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040201": {
+    name: "XI - St.Felix",
+    location: "Lantai 2 - Gedung SMA",
+    capacity: "",
+    nameClass: "XI - St.Felix",
+    building: "SMA",
+    floor: "2",
+    roomNumber: "R04.02.01",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1903,29 +1901,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040202": {
-  Nama: "XI - St.Bernadius",
-  Location: "Lantai 2 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "XI - St.Bernadius",
-  Building: "SMA",
-  Floor: "2",
-  RoomNumber: "R04.02.02",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040202": {
+    name: "XI - St.Bernadius",
+    location: "Lantai 2 - Gedung SMA",
+    capacity: "",
+    nameClass: "XI - St.Bernadius",
+    building: "SMA",
+    floor: "2",
+    roomNumber: "R04.02.02",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1946,29 +1944,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040203": {
-  Nama: "Ruang Kebersihan",
-  Location: "Lantai 2 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Kebersihan",
-  Building: "SMA",
-  Floor: "2",
-  RoomNumber: "R04.02.03",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040203": {
+    name: "Ruang Kebersihan",
+    location: "Lantai 2 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Kebersihan",
+    building: "SMA",
+    floor: "2",
+    roomNumber: "R04.02.03",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -1989,29 +1987,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040204": {
-  Nama: "XI - St.Elizabeth",
-  Location: "Lantai 2 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "XI - St.Elizabeth",
-  Building: "SMA",
-  Floor: "2",
-  RoomNumber: "R04.02.04",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040204": {
+    name: "XI - St.Elizabeth",
+    location: "Lantai 2 - Gedung SMA",
+    capacity: "",
+    nameClass: "XI - St.Elizabeth",
+    building: "SMA",
+    floor: "2",
+    roomNumber: "R04.02.04",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2032,29 +2030,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040205": {
-  Nama: "XI - St.Antonius",
-  Location: "Lantai 2 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "XI - St.Antonius",
-  Building: "SMA",
-  Floor: "2",
-  RoomNumber: "R04.02.05",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040205": {
+    name: "XI - St.Antonius",
+    location: "Lantai 2 - Gedung SMA",
+    capacity: "",
+    nameClass: "XI - St.Antonius",
+    building: "SMA",
+    floor: "2",
+    roomNumber: "R04.02.05",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2075,30 +2073,30 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
 // Lantai 3 //
-"040301": {
-  Nama: "Ruang BK",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang BK",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.01",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040301": {
+    name: "Ruang BK",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang BK",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.01",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2119,29 +2117,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040302": {
-  Nama: "Ruang Tamu",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Tamu",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.02",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040302": {
+    name: "Ruang Tamu",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Tamu",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.02",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2162,29 +2160,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040303": {
-  Nama: "Pentry",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Pentry",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.03",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040303": {
+    name: "Pentry",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "Pentry",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.03",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2205,29 +2203,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040304": {
-  Nama: "Ruang Guru",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Guru",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.04",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040304": {
+    name: "Ruang Guru",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Guru",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.04",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2248,29 +2246,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040305": {
-  Nama: "Ruang Kepala Sekolah",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Kepala Sekolah",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.05",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040305": {
+    nama: "Ruang Kepala Sekolah",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Kepala Sekolah",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.05",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2291,29 +2289,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040306": {
-  Nama: "Ruang Konseling",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Kebersihan",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.06",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040306": {
+    name: "Ruang Konseling",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Kebersihan",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.06",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2334,29 +2332,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040307": {
-  Nama: "Ruang Kebersihan",
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "XII - Padre Pio",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.07",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040307": {
+    name: "Ruang Kebersihan",
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "XII - Padre Pio",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.07",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2377,29 +2375,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040308": {
-  Nama: "XII - Padre Pio", 
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "xii - St.Agnes",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.08",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040308": {
+    name: "XII - Padre Pio", 
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "xii - St.Agnes",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.08",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2420,29 +2418,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040309": {
-  Nama: "XII - St.Agnes", 
-  Location: "Lantai 3 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "XII - Padre Pio",
-  Building: "SMA",
-  Floor: "3",
-  RoomNumber: "R04.03.07",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040309": {
+    name: "XII - St.Agnes", 
+    location: "Lantai 3 - Gedung SMA",
+    capacity: "",
+    nameClass: "XII - Padre Pio",
+    building: "SMA",
+    floor: "3",
+    roomNumber: "R04.03.07",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2463,30 +2461,30 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
 // Lantai 4 //
-"040401": {
-  Nama: "Ruang Musik - St.Fransiskus de Sales",
-  Location: "Lantai 4 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Musik - St.Fransiskus de Sales",
-  Building: "SMA",
-  Floor: "4",
-  RoomNumber: "R04.04.01",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040401": {
+    name: "Ruang Musik - St.Fransiskus de Sales",
+    location: "Lantai 4 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Musik - St.Fransiskus de Sales",
+    building: "SMA",
+    floor: "4",
+    roomNumber: "R04.04.01",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2507,29 +2505,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040402": {
-  Nama: "Beata Maria de La Passion",
-  Location: "Lantai 4 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Beata Maria de La Passion",
-  Building: "SMA",
-  Floor: "4",
-  RoomNumber: "R04.04.02",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040402": {
+    name: "Beata Maria de La Passion",
+    location: "Lantai 4 - Gedung SMA",
+    capacity: "",
+    nameClass: "Beata Maria de La Passion",
+    building: "SMA",
+    floor: "4",
+    roomNumber: "R04.04.02",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2550,29 +2548,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040403": {
-  Nama: "Ruang Kebersihan",
-  Location: "Lantai 4 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Kebersihan",
-  Building: "SMA",
-  Floor: "4",
-  RoomNumber: "R04.04.03",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040403": {
+    name: "Ruang Kebersihan",
+    location: "Lantai 4 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Kebersihan",
+    building: "SMA",
+    floor: "4",
+    roomNumber: "R04.04.03",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2593,29 +2591,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040404": {
-  Nama: "Ruang Komputer - St.Cicilia",
-  Location: "Lantai 4 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Komputer - St.Cicilia",
-  Building: "SMA",
-  Floor: "4",
-  RoomNumber: "R04.04.04",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040404": {
+    name: "Ruang Komputer - St.Cicilia",
+    location: "Lantai 4 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Komputer - St.Cicilia",
+    building: "SMA",
+    floor: "4",
+    roomNumber: "R04.04.04",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2636,29 +2634,29 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
 
-"040405": {
-  Nama: "Ruang Komputer - Beato Carlo Acutis",
-  Location: "Lantai 4 - Gedung SMA",
-  Capacity: "",
-  NamaClass: "Ruang Komputer - Beato Carlo Acutis",
-  Building: "SMA",
-  Floor: "4",
-  RoomNumber: "R04.04.05",
-  Images: [
-    { src: "",
-      alt: ""
-    },
-  ],
-  assets: [
-    { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
+  "040405": {
+    name: "Ruang Komputer - Beato Carlo Acutis",
+    location: "Lantai 4 - Gedung SMA",
+    capacity: "",
+    nameClass: "Ruang Komputer - Beato Carlo Acutis",
+    building: "SMA",
+    floor: "4",
+    roomNumber: "R04.04.05",
+    images: [
+      { src: "",
+        alt: ""
+      },
+    ],
+    assets: [
+      { icon: "/qr-app/icons/table.svg", name: "Meja Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/studentChair.svg", name: "Kursi Siswa", count: "30 unit" },
       { icon: "/qr-app/icons/teacherDesk.svg", name: "Meja Guru", count: "1 unit" },
       { icon: "/qr-app/icons/teacherChair.svg", name: "Kursi Guru", count: "1 unit" },
@@ -2679,13 +2677,13 @@ export const roomsData = {
       { icon: "/qr-app/icons/garudaPancasila.svg", name: "Lambang Garuda", count: "1 Unit" },
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
-  ],
-  mapImage: "/qr-app/maps/sma/",
-  legendItems: [
-    { number: "", name: "", color: "" },
-    { number: "", name: "", color: "" },
-  ]
-},
+    ],
+    mapImage: "/qr-app/maps/sma/",
+    legendItems: [
+      { number: "", name: "", color: "" },
+      { number: "", name: "", color: "" },
+    ]
+  },
   
   // Contoh kelas dengan gambar dari URL eksternal
   "tk-a": {
