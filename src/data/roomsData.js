@@ -2255,7 +2255,7 @@ export const roomsData = {
   },
 
   "040305": {
-    nama: "Ruang Kepala Sekolah",
+    name: "Ruang Kepala Sekolah",
     location: "Lantai 3 - Gedung SMA",
     capacity: "",
     nameClass: "Ruang Kepala Sekolah",
