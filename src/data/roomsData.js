@@ -257,10 +257,10 @@ export const roomsData = {
   },
 
   "030105": {
-    name: "Ruang Kebersihan",
+    name: "Ruang Kebersihan Lt.1",
     location: "Lantai 1 - Gedung SMP",
     capacity: "",
-    nameClass: "Ruang Kebersihan",
+    nameClass: "Ruang Kebersihan Lt.1",
     building: "SMP",
     floor: "1",
     roomNumber: "R03-01-05",
@@ -587,10 +587,10 @@ export const roomsData = {
   },
 
   "030203": {
-    name: "Ruang Kebersihan",
+    name: "Ruang Kebersihan Lt.2",
     location: "Lantai 2 - Gedung SMP",
     capacity: "",
-    nameClass: "Ruang Kebersihan",
+    nameClass: "Ruang Kebersihan Lt.2",
     building: "SMP",
     floor: "2",
     roomNumber: "R03-02-03",
@@ -921,10 +921,10 @@ export const roomsData = {
   },
 
   "030303": {
-    name: "Ruang Kebersihan",
+    name: "Ruang Kebersihan Lt.3",
     location: "Lantai 3 - Gedung SMP",
     capacity: "",
-    nameClass: "Ruang Kebersihan",
+    nameClass: "Ruang Kebersihan Lt.3",
     building: "SMP",
     floor: "3",
     roomNumber: "R03-03-03",
@@ -1399,10 +1399,10 @@ export const roomsData = {
   },
 
   "030403": {
-    name: "Ruang Kebersihan",
+    name: "Ruang Kebersihan Lt.4",
     location: "Lantai 4 - Gedung SMP",
     capacity: "",
-    nameClass: "Ruang Kebersihan",
+    nameClass: "Ruang Kebersihan Lt.4",
     building: "SMP",
     floor: "4",
     roomNumber: "R03-04-03",
