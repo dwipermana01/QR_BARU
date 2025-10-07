@@ -1958,10 +1958,10 @@ export const roomsData = {
   },
 
   "040203": {
-    name: "Ruang Kebersihan",
+    name: "Ruang Kebersihan Lt.2",
     location: "Lantai 2 - Gedung SMA",
     capacity: "",
-    nameClass: "Ruang Kebersihan",
+    nameClass: "Ruang Kebersihan Lt.2",
     building: "SMA",
     floor: "2",
     roomNumber: "R04.02.03",
@@ -2346,10 +2346,10 @@ export const roomsData = {
   },
 
   "040307": {
-    name: "Ruang Kebersihan",
+    name: "Ruang Kebersihan Lt.3",
     location: "Lantai 3 - Gedung SMA",
     capacity: "",
-    nameClass: "XII - Padre Pio",
+    nameClass: "Ruang Kebersihan Lt.3",
     building: "SMA",
     floor: "3",
     roomNumber: "R04.03.07",
@@ -2392,7 +2392,7 @@ export const roomsData = {
     name: "XII - Padre Pio", 
     location: "Lantai 3 - Gedung SMA",
     capacity: "",
-    nameClass: "xii - St.Agnes",
+    nameClass: "XII - Padre Pio",
     building: "SMA",
     floor: "3",
     roomNumber: "R04.03.08",
@@ -2435,7 +2435,7 @@ export const roomsData = {
     name: "XII - St.Agnes", 
     location: "Lantai 3 - Gedung SMA",
     capacity: "",
-    nameClass: "XII - Padre Pio",
+    nameClass: "XII - St.Agnes",
     building: "SMA",
     floor: "3",
     roomNumber: "R04.03.07",
