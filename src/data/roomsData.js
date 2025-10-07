@@ -66,7 +66,6 @@ export const roomsData = {
       { number: 11, name: "Monitor/TV", color: "#2C2C2C", textColor: "#FFFFFF" },
     ] 
   },
-
   
   "030102": {
     name: "Ruangan Kepala Sekolah",
@@ -1341,15 +1340,15 @@ export const roomsData = {
         src: "/qr-app/images/room_smp/labkomputer/labkom-view1.jpg",
         alt: "Tampak Depan Lab.Komputer"
       },
-       {
+      {
         src: "/qr-app/images/room_smp/labkomputer/labkom-view2.jpg",
         alt: "Tampak Samping Lab.Komputer"
       },
-       {
+      {
         src: "/qr-app/images/room_smp/labkomputer/labkom-view3.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       },
-       {
+      {
         src: "/qr-app/images/room_smp/labkomputer/labkom-view4.jpg",
         alt: "Tampak Belakang Lab.Komputer"
       }
@@ -1630,7 +1629,7 @@ export const roomsData = {
 
 // GEDUNG SMA LANTAI 1-4 //
 
-// Lantai 1 //
+//========== Lantai 1 ========== //
   "040101": {
     name: "Ruangan Kebersihan",
     location: "SMA - Lantai 1",
@@ -1667,12 +1666,14 @@ export const roomsData = {
       { icon: "/qr-app/icons/frame.svg", name: "Bingkai", count: "2 Unit" },
       { icon: "/qr-app/icons/hangingWhiteboard.svg", name: "Papan Data Informasi", count: "1 Unit" }
     ],
-    mapImage: "/qr-app/maps/sma/",
+    mapImage: "/qr-app/maps/sma/r040101",
     legendItems: [
-      { number: 1, name: "Meja Siswa", color: "#89a3fe", textColor: "#ffffff" },
-      { number: 1, name: "Kursi Siswa", color: "#ff0000", textColor: "#ffffff" },
+      { number: 1, name: "Meja", color: "#89a3fe", textColor: "#ffffff" },
+      { number: 2, name: "Kursi", color: "#ff0000", textColor: "#ffffff" },
+      { number: 3, name: "Lemari", color: "#aa5500", textColor: "#ffffff"}
     ]
   },
+
 
   "040102": {
     name: "X - St.Klara",
@@ -1865,7 +1866,7 @@ export const roomsData = {
     ]
   },
 
-// Lantai 2 //
+//========== Lantai 2 ========== //
   "040201": {
     name: "XI - St.Felix",
     location: "Lantai 2 - Gedung SMA",
@@ -2081,7 +2082,7 @@ export const roomsData = {
     ]
   },
 
-// Lantai 3 //
+//========== Lantai 3 ========== //
   "040301": {
     name: "Ruang BK",
     location: "Lantai 3 - Gedung SMA",
@@ -2469,7 +2470,7 @@ export const roomsData = {
     ]
   },
 
-// Lantai 4 //
+//========== Lantai 4 ========== //
   "040401": {
     name: "Ruang Musik - St.Fransiskus de Sales",
     location: "Lantai 4 - Gedung SMA",
